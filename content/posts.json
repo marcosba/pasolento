@@ -1,0 +1,1136 @@
+[
+  {
+    "slug": "el-silencio-tiene-forma-de-montana",
+    "title": "El silencio tiene forma de montaña",
+    "date": "2026-10-11",
+    "category": "hiking",
+    "excerpt": "Hay caminos que no llevan a un lugar: te devuelven a una forma de estar. Una mañana en El Chaltén.",
+    "tags": [
+      "Patagonia",
+      "aire libre",
+      "atención",
+      "vida lenta"
+    ],
+    "collections": [
+      "Cuaderno patagónico"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Parque Nacional Los Glaciares"
+    ],
+    "trails": [
+      "Mirador de los Cóndores"
+    ],
+    "distance_km": 6.4,
+    "elevation_m": 250,
+    "duration_minutes": 150,
+    "difficulty": "Moderada",
+    "image": "patagonia.jpg",
+    "featured": true
+  },
+  {
+    "slug": "el-libro-del-te-aprender-a-mirar-lo-pequeno",
+    "title": "El libro del té: aprender a mirar lo pequeño",
+    "date": "2026-10-08",
+    "category": "books",
+    "excerpt": "Una taza, una pausa y un libro que recuerda que la belleza no necesita hacer ruido.",
+    "tags": [
+      "lectura lenta",
+      "rituales",
+      "atención"
+    ],
+    "collections": [
+      "Leer despacio"
+    ],
+    "countries": [
+      "Japón"
+    ],
+    "people": [
+      "Kakuzō Okakura"
+    ],
+    "genres": [
+      "Ensayo"
+    ],
+    "media": {
+      "title": "El libro del té",
+      "creator": "Kakuzō Okakura",
+      "year": 1906,
+      "pages": 144,
+      "rating": 5,
+      "status": "Leído",
+      "color": "#64765b"
+    },
+    "image": "lectura.jpg"
+  },
+  {
+    "slug": "una-manana-sin-notificaciones",
+    "title": "Una mañana sin notificaciones",
+    "date": "2026-10-05",
+    "category": "journal",
+    "excerpt": "Dejar el teléfono en otra habitación no cambia la vida. Pero cambia bastante una mañana.",
+    "tags": [
+      "vida lenta",
+      "hábitos",
+      "desconexión"
+    ],
+    "collections": [
+      "Pequeñas ceremonias"
+    ],
+    "image": "buenos-aires.jpg"
+  },
+  {
+    "slug": "un-disco-para-abrir-las-ventanas",
+    "title": "Un disco para abrir las ventanas",
+    "date": "2026-10-02",
+    "category": "music",
+    "excerpt": "Volver a escuchar In Rainbows como si todavía no supiera qué canción viene después.",
+    "tags": [
+      "álbumes",
+      "escucha atenta",
+      "otoño"
+    ],
+    "collections": [
+      "Domingos de música"
+    ],
+    "people": [
+      "Radiohead"
+    ],
+    "genres": [
+      "Rock alternativo"
+    ],
+    "media": {
+      "title": "In Rainbows",
+      "creator": "Radiohead",
+      "year": 2007,
+      "rating": 5,
+      "status": "Escuchado",
+      "color": "#a46c43"
+    }
+  },
+  {
+    "slug": "septiembre-en-cinco-escenas",
+    "title": "Septiembre, en cinco escenas",
+    "date": "2026-10-01",
+    "category": "monthlyupdates",
+    "excerpt": "Un mes cabe mejor en unas pocas imágenes que en una lista de cosas terminadas.",
+    "tags": [
+      "balance",
+      "archivo",
+      "estaciones"
+    ],
+    "collections": [
+      "Un mes a la vez"
+    ]
+  },
+  {
+    "slug": "una-web-que-pesa-menos-que-una-foto",
+    "title": "Una web que pesa menos que una foto",
+    "date": "2026-09-28",
+    "category": "development",
+    "excerpt": "Archivos simples, enlaces que funcionan y una pequeña reivindicación de la web personal.",
+    "tags": [
+      "web personal",
+      "Markdown",
+      "GitHub Pages",
+      "accesibilidad"
+    ],
+    "collections": [
+      "Diseñar lo cotidiano"
+    ],
+    "genres": [
+      "Tutorial"
+    ]
+  },
+  {
+    "slug": "perfect-days-y-la-belleza-de-repetir",
+    "title": "Perfect Days y la belleza de repetir",
+    "date": "2026-09-25",
+    "category": "movies",
+    "excerpt": "Una película que no confunde una vida pequeña con una vida vacía.",
+    "tags": [
+      "rutinas",
+      "atención",
+      "cine japonés"
+    ],
+    "collections": [
+      "Cine y memoria"
+    ],
+    "countries": [
+      "Japón"
+    ],
+    "people": [
+      "Wim Wenders"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "media": {
+      "title": "Perfect Days",
+      "creator": "Wim Wenders",
+      "year": 2023,
+      "rating": 5,
+      "status": "Vista",
+      "color": "#486f71"
+    }
+  },
+  {
+    "slug": "caminar-un-libro-que-se-lee-con-los-pies",
+    "title": "Caminar: un libro que se lee con los pies",
+    "date": "2026-09-20",
+    "category": "books",
+    "excerpt": "Una invitación a salir que encontré, paradójicamente, sentado en una silla.",
+    "tags": [
+      "naturaleza",
+      "lectura lenta",
+      "caminar"
+    ],
+    "collections": [
+      "Leer despacio"
+    ],
+    "countries": [
+      "Estados Unidos"
+    ],
+    "people": [
+      "Henry David Thoreau"
+    ],
+    "genres": [
+      "Ensayo"
+    ],
+    "media": {
+      "title": "Caminar",
+      "creator": "Henry David Thoreau",
+      "year": 1862,
+      "pages": 96,
+      "rating": 4,
+      "status": "Leído",
+      "color": "#92835c"
+    }
+  },
+  {
+    "slug": "la-laguna-que-espera-al-final-del-camino",
+    "title": "La laguna que espera al final del camino",
+    "date": "2026-09-16",
+    "category": "hiking",
+    "excerpt": "Una salida imaginaria hacia Laguna de los Tres, con mucho viento y ninguna urgencia.",
+    "tags": [
+      "Patagonia",
+      "lagunas",
+      "aire libre"
+    ],
+    "collections": [
+      "Cuaderno patagónico"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Parque Nacional Los Glaciares"
+    ],
+    "trails": [
+      "Laguna de los Tres"
+    ],
+    "distance_km": 22,
+    "elevation_m": 900,
+    "duration_minutes": 480,
+    "difficulty": "Exigente",
+    "image": "patagonia.jpg"
+  },
+  {
+    "slug": "detectorists-encontrar-sin-buscar",
+    "title": "Detectorists: encontrar sin buscar",
+    "date": "2026-09-10",
+    "category": "tvseries",
+    "excerpt": "La amistad, el paisaje y esas búsquedas que terminan hablando de otra cosa.",
+    "tags": [
+      "amistad",
+      "campo",
+      "humor"
+    ],
+    "collections": [
+      "Historias para volver"
+    ],
+    "countries": [
+      "Reino Unido"
+    ],
+    "people": [
+      "Mackenzie Crook"
+    ],
+    "genres": [
+      "Comedia"
+    ],
+    "media": {
+      "title": "Detectorists",
+      "creator": "Mackenzie Crook",
+      "year": 2014,
+      "rating": 5,
+      "status": "Vista",
+      "color": "#788460"
+    }
+  },
+  {
+    "slug": "montevideo-del-otro-lado-del-rio",
+    "title": "Montevideo, del otro lado del río",
+    "date": "2026-09-07",
+    "category": "trips",
+    "excerpt": "Cruzar cerca para mirar distinto: una tarde sin itinerario en la Ciudad Vieja.",
+    "tags": [
+      "ciudades",
+      "río",
+      "viajar cerca"
+    ],
+    "collections": [
+      "Ciudades a pie"
+    ],
+    "countries": [
+      "Uruguay"
+    ],
+    "distance_km": 420,
+    "image": "buenos-aires.jpg"
+  },
+  {
+    "slug": "treinta-kilometros-antes-del-desayuno",
+    "title": "Treinta kilómetros antes del desayuno",
+    "date": "2026-09-02",
+    "category": "biking",
+    "excerpt": "El aire de la mañana y una ruta conocida que nunca es exactamente la misma.",
+    "tags": [
+      "bicicleta",
+      "mañanas",
+      "movimiento"
+    ],
+    "collections": [
+      "A dos ruedas"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "distance_km": 30
+  },
+  {
+    "slug": "la-pequena-ceremonia-del-cafe",
+    "title": "La pequeña ceremonia del café",
+    "date": "2026-08-22",
+    "category": "general",
+    "excerpt": "No hace falta un ritual perfecto. Hace falta estar un momento en el lugar donde estamos.",
+    "tags": [
+      "rituales",
+      "café",
+      "vida lenta"
+    ],
+    "collections": [
+      "Pequeñas ceremonias"
+    ],
+    "image": "lectura.jpg"
+  },
+  {
+    "slug": "san-telmo-cuando-todavia-esta-despertando",
+    "title": "San Telmo, cuando todavía está despertando",
+    "date": "2026-08-18",
+    "category": "gems",
+    "excerpt": "Salir con una cámara y volver con más preguntas sobre la luz que fotos.",
+    "tags": [
+      "fotografía",
+      "Buenos Aires",
+      "luz"
+    ],
+    "collections": [
+      "Ciudades a pie"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "image": "buenos-aires.jpg"
+  },
+  {
+    "slug": "una-habitacion-propia-cien-anos-despues",
+    "title": "Una habitación propia, cien años después",
+    "date": "2026-08-12",
+    "category": "books",
+    "excerpt": "Volver a Virginia Woolf para pensar el espacio, el tiempo y las condiciones de crear.",
+    "tags": [
+      "relecturas",
+      "creatividad",
+      "espacio propio"
+    ],
+    "collections": [
+      "Leer despacio"
+    ],
+    "countries": [
+      "Reino Unido"
+    ],
+    "people": [
+      "Virginia Woolf"
+    ],
+    "genres": [
+      "Ensayo"
+    ],
+    "media": {
+      "title": "Una habitación propia",
+      "creator": "Virginia Woolf",
+      "year": 1929,
+      "pages": 192,
+      "rating": 5,
+      "status": "Leído",
+      "color": "#946c75"
+    }
+  },
+  {
+    "slug": "el-pulso-tranquilo-de-chet-baker",
+    "title": "El pulso tranquilo de Chet Baker",
+    "date": "2026-07-26",
+    "category": "music",
+    "excerpt": "Un disco para escuchar las respiraciones entre las canciones.",
+    "tags": [
+      "jazz",
+      "escucha atenta",
+      "álbumes"
+    ],
+    "collections": [
+      "Domingos de música"
+    ],
+    "people": [
+      "Chet Baker"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "media": {
+      "title": "Chet Baker Sings",
+      "creator": "Chet Baker",
+      "year": 1954,
+      "rating": 5,
+      "status": "Escuchado",
+      "color": "#456c80"
+    }
+  },
+  {
+    "slug": "un-mapa-de-lugares-para-volver",
+    "title": "Un mapa de lugares para volver",
+    "date": "2026-07-10",
+    "category": "projects",
+    "excerpt": "Un proyecto pequeño: guardar lugares por lo que hicieron sentir, no por su puntuación.",
+    "tags": [
+      "proyectos pequeños",
+      "mapas",
+      "web personal"
+    ],
+    "collections": [
+      "Diseñar lo cotidiano"
+    ],
+    "countries": [
+      "Argentina"
+    ]
+  },
+  {
+    "slug": "no-todo-lo-que-importa-se-puede-medir",
+    "title": "No todo lo que importa se puede medir",
+    "date": "2026-06-15",
+    "category": "essays",
+    "excerpt": "Los números son una buena herramienta, siempre que no los confundamos con la experiencia.",
+    "tags": [
+      "atención",
+      "métricas",
+      "vida lenta"
+    ],
+    "collections": [
+      "Preguntas abiertas"
+    ],
+    "genres": [
+      "Ensayo"
+    ]
+  },
+  {
+    "slug": "un-escritorio-que-deja-espacio-para-pensar",
+    "title": "Un escritorio que deja espacio para pensar",
+    "date": "2026-05-12",
+    "category": "mac",
+    "excerpt": "Las herramientas que uso menos son, a veces, las que mejor me acompañan.",
+    "tags": [
+      "herramientas",
+      "trabajo",
+      "minimalismo"
+    ],
+    "collections": [
+      "Diseñar lo cotidiano"
+    ]
+  },
+  {
+    "slug": "el-cuaderno-de-mi-abuelo",
+    "title": "El cuaderno de mi abuelo",
+    "date": "2026-04-03",
+    "category": "remembering",
+    "excerpt": "Una historia ficticia sobre las cosas ordinarias que terminan guardando una vida.",
+    "tags": [
+      "memoria",
+      "cuadernos",
+      "familia"
+    ],
+    "collections": [
+      "Pequeñas ceremonias"
+    ]
+  },
+  {
+    "slug": "walden-una-pregunta-no-una-receta",
+    "title": "Walden: una pregunta, no una receta",
+    "date": "2026-03-11",
+    "category": "books",
+    "excerpt": "Leer una vida retirada sin creer que hace falta copiarla.",
+    "tags": [
+      "naturaleza",
+      "vida simple",
+      "clásicos"
+    ],
+    "collections": [
+      "Leer despacio"
+    ],
+    "countries": [
+      "Estados Unidos"
+    ],
+    "people": [
+      "Henry David Thoreau"
+    ],
+    "genres": [
+      "Ensayo"
+    ],
+    "media": {
+      "title": "Walden",
+      "creator": "Henry David Thoreau",
+      "year": 1854,
+      "pages": 384,
+      "rating": 4,
+      "status": "Leído",
+      "color": "#4f6654"
+    }
+  },
+  {
+    "slug": "cerro-campanario-sin-el-reloj",
+    "title": "Cerro Campanario sin el reloj",
+    "date": "2026-02-18",
+    "category": "hiking",
+    "excerpt": "Subir despacio para que el paisaje no llegue antes que nosotros.",
+    "tags": [
+      "Bariloche",
+      "bosque",
+      "aire libre"
+    ],
+    "collections": [
+      "Cuaderno patagónico"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Parque Nacional Nahuel Huapi"
+    ],
+    "trails": [
+      "Cerro Campanario"
+    ],
+    "distance_km": 3.2,
+    "elevation_m": 230,
+    "duration_minutes": 100,
+    "difficulty": "Moderada",
+    "image": "patagonia.jpg"
+  },
+  {
+    "slug": "paterson-los-poemas-que-pasan-cerca",
+    "title": "Paterson: los poemas que pasan cerca",
+    "date": "2026-01-24",
+    "category": "movies",
+    "excerpt": "Una libreta, una ciudad y la idea de que crear puede ser una parte discreta de la vida.",
+    "tags": [
+      "poesía",
+      "creatividad",
+      "rutinas"
+    ],
+    "collections": [
+      "Cine y memoria"
+    ],
+    "countries": [
+      "Estados Unidos"
+    ],
+    "people": [
+      "Jim Jarmusch"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "media": {
+      "title": "Paterson",
+      "creator": "Jim Jarmusch",
+      "year": 2016,
+      "rating": 5,
+      "status": "Vista",
+      "color": "#7c665b"
+    }
+  },
+  {
+    "slug": "midnight-diner-historias-alrededor-de-una-mesa",
+    "title": "Midnight Diner: historias alrededor de una mesa",
+    "date": "2025-12-08",
+    "category": "tvseries",
+    "excerpt": "Una puerta abierta de noche y una manera de escuchar sin resolver la vida de nadie.",
+    "tags": [
+      "comida",
+      "amistad",
+      "cine japonés"
+    ],
+    "collections": [
+      "Historias para volver"
+    ],
+    "countries": [
+      "Japón"
+    ],
+    "people": [
+      "Jōji Matsuoka"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "media": {
+      "title": "Midnight Diner",
+      "creator": "Jōji Matsuoka",
+      "year": 2009,
+      "rating": 4,
+      "status": "Vista",
+      "color": "#9c644f"
+    }
+  },
+  {
+    "slug": "blue-escuchar-las-costuras",
+    "title": "Blue: escuchar las costuras",
+    "date": "2025-11-20",
+    "category": "music",
+    "excerpt": "Hay discos que parecen terminados y, aun así, dejan ver el trabajo de sentir.",
+    "tags": [
+      "álbumes",
+      "cantautores",
+      "escucha atenta"
+    ],
+    "collections": [
+      "Domingos de música"
+    ],
+    "people": [
+      "Joni Mitchell"
+    ],
+    "genres": [
+      "Folk"
+    ],
+    "media": {
+      "title": "Blue",
+      "creator": "Joni Mitchell",
+      "year": 1971,
+      "rating": 5,
+      "status": "Escuchado",
+      "color": "#355a7a"
+    }
+  },
+  {
+    "slug": "ficciones-y-el-placer-de-perderse",
+    "title": "Ficciones y el placer de perderse",
+    "date": "2025-10-12",
+    "category": "books",
+    "excerpt": "Entrar en un cuento como quien entra en una biblioteca que no termina.",
+    "tags": [
+      "relecturas",
+      "literatura argentina",
+      "cuentos"
+    ],
+    "collections": [
+      "Bibliotecas posibles"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "people": [
+      "Jorge Luis Borges"
+    ],
+    "genres": [
+      "Cuento"
+    ],
+    "media": {
+      "title": "Ficciones",
+      "creator": "Jorge Luis Borges",
+      "year": 1944,
+      "pages": 224,
+      "rating": 5,
+      "status": "Leído",
+      "color": "#82613c"
+    }
+  },
+  {
+    "slug": "valparaiso-caminar-entre-colores",
+    "title": "Valparaíso: caminar entre colores",
+    "date": "2025-08-15",
+    "category": "trips",
+    "excerpt": "Una ciudad que me hizo cambiar de dirección más veces de las que había previsto.",
+    "tags": [
+      "ciudades",
+      "Chile",
+      "viajes"
+    ],
+    "collections": [
+      "Ciudades a pie"
+    ],
+    "countries": [
+      "Chile"
+    ],
+    "distance_km": 2600,
+    "image": "buenos-aires.jpg"
+  },
+  {
+    "slug": "entre-lengas-hacia-laguna-capri",
+    "title": "Entre lengas, hacia Laguna Capri",
+    "date": "2025-04-07",
+    "category": "hiking",
+    "excerpt": "Un sendero conocido en una estación distinta, y el permiso para detenerse más.",
+    "tags": [
+      "Patagonia",
+      "bosque",
+      "lagunas"
+    ],
+    "collections": [
+      "Cuaderno patagónico"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Parque Nacional Los Glaciares"
+    ],
+    "trails": [
+      "Laguna Capri"
+    ],
+    "distance_km": 8,
+    "elevation_m": 350,
+    "duration_minutes": 210,
+    "difficulty": "Moderada",
+    "image": "patagonia.jpg"
+  },
+  {
+    "slug": "la-vida-de-los-otros-aprender-a-escuchar",
+    "title": "La vida de los otros: aprender a escuchar",
+    "date": "2025-03-12",
+    "category": "movies",
+    "excerpt": "Una historia que cambia de sentido cada vez que alguien realmente presta atención.",
+    "tags": [
+      "memoria",
+      "historia",
+      "escucha atenta"
+    ],
+    "collections": [
+      "Cine y memoria"
+    ],
+    "countries": [
+      "Alemania"
+    ],
+    "people": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "media": {
+      "title": "La vida de los otros",
+      "creator": "F. H. von Donnersmarck",
+      "year": 2006,
+      "rating": 4,
+      "status": "Vista",
+      "color": "#626456"
+    }
+  },
+  {
+    "slug": "el-jardin-digital-no-necesita-una-aplicacion",
+    "title": "El jardín digital no necesita una aplicación",
+    "date": "2025-02-10",
+    "category": "development",
+    "excerpt": "Una carpeta de notas puede ser el principio de un lugar propio en la web.",
+    "tags": [
+      "web personal",
+      "Markdown",
+      "proyectos pequeños"
+    ],
+    "collections": [
+      "Diseñar lo cotidiano"
+    ],
+    "genres": [
+      "Tutorial"
+    ]
+  },
+  {
+    "slug": "siddhartha-y-las-preguntas-que-cambian",
+    "title": "Siddhartha y las preguntas que cambian",
+    "date": "2024-11-14",
+    "category": "books",
+    "excerpt": "Releer una búsqueda conocida y descubrir que ya no pregunto desde el mismo lugar.",
+    "tags": [
+      "relecturas",
+      "búsqueda",
+      "clásicos"
+    ],
+    "collections": [
+      "Leer despacio"
+    ],
+    "countries": [
+      "Alemania"
+    ],
+    "people": [
+      "Hermann Hesse"
+    ],
+    "genres": [
+      "Novela"
+    ],
+    "media": {
+      "title": "Siddhartha",
+      "creator": "Hermann Hesse",
+      "year": 1922,
+      "pages": 176,
+      "rating": 4,
+      "status": "Leído",
+      "color": "#b48b4d"
+    }
+  },
+  {
+    "slug": "el-viaje-luminoso-de-artaud",
+    "title": "El viaje luminoso de Artaud",
+    "date": "2024-10-06",
+    "category": "music",
+    "excerpt": "Escuchar un disco conocido sin dejar que la costumbre termine las canciones antes de tiempo.",
+    "tags": [
+      "música argentina",
+      "álbumes",
+      "escucha atenta"
+    ],
+    "collections": [
+      "Domingos de música"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "people": [
+      "Luis Alberto Spinetta"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "media": {
+      "title": "Artaud",
+      "creator": "Pescado Rabioso",
+      "year": 1973,
+      "rating": 5,
+      "status": "Escuchado",
+      "color": "#63805c"
+    }
+  },
+  {
+    "slug": "the-bear-el-tiempo-de-cuidar",
+    "title": "The Bear: el tiempo de cuidar",
+    "date": "2024-07-22",
+    "category": "tvseries",
+    "excerpt": "El trabajo compartido como un lugar de tensión, aprendizaje y cuidado.",
+    "tags": [
+      "trabajo",
+      "comida",
+      "cuidado"
+    ],
+    "collections": [
+      "Historias para volver"
+    ],
+    "countries": [
+      "Estados Unidos"
+    ],
+    "people": [
+      "Christopher Storer"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "media": {
+      "title": "The Bear",
+      "creator": "Christopher Storer",
+      "year": 2022,
+      "rating": 4,
+      "status": "En curso",
+      "color": "#7d6951"
+    }
+  },
+  {
+    "slug": "un-paseo-por-la-reserva-ecologica",
+    "title": "Un paseo por la Reserva Ecológica",
+    "date": "2024-05-04",
+    "category": "biking",
+    "excerpt": "Salir de la ciudad sin dejarla del todo y volver con un volumen distinto.",
+    "tags": [
+      "bicicleta",
+      "Buenos Aires",
+      "aire libre"
+    ],
+    "collections": [
+      "A dos ruedas"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Reserva Ecológica Costanera Sur"
+    ],
+    "distance_km": 18
+  },
+  {
+    "slug": "el-ano-en-que-volvi-a-escribir-a-mano",
+    "title": "El año en que volví a escribir a mano",
+    "date": "2024-02-03",
+    "category": "journal",
+    "excerpt": "Una libreta corriente y una forma menos editable de pensar.",
+    "tags": [
+      "cuadernos",
+      "hábitos",
+      "creatividad"
+    ],
+    "collections": [
+      "Pequeñas ceremonias"
+    ]
+  },
+  {
+    "slug": "el-principito-releer-para-descubrir",
+    "title": "El principito: releer para descubrir",
+    "date": "2023-11-22",
+    "category": "books",
+    "excerpt": "Un libro familiar al que no hace falta llegar con una lectura ya decidida.",
+    "tags": [
+      "relecturas",
+      "amistad",
+      "clásicos"
+    ],
+    "collections": [
+      "Bibliotecas posibles"
+    ],
+    "countries": [
+      "Francia"
+    ],
+    "people": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "genres": [
+      "Fábula"
+    ],
+    "media": {
+      "title": "El principito",
+      "creator": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "pages": 112,
+      "rating": 4,
+      "status": "Leído",
+      "color": "#b29554"
+    }
+  },
+  {
+    "slug": "antes-del-amanecer-despues-de-muchos-anos",
+    "title": "Antes del amanecer, después de muchos años",
+    "date": "2023-09-09",
+    "category": "movies",
+    "excerpt": "Volver a una conversación de cine y escuchar lo que antes no escuchaba.",
+    "tags": [
+      "conversaciones",
+      "ciudades",
+      "memoria"
+    ],
+    "collections": [
+      "Cine y memoria"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "people": [
+      "Richard Linklater"
+    ],
+    "genres": [
+      "Romance"
+    ],
+    "media": {
+      "title": "Antes del amanecer",
+      "creator": "Richard Linklater",
+      "year": 1995,
+      "rating": 4,
+      "status": "Vista",
+      "color": "#8e725f"
+    }
+  },
+  {
+    "slug": "la-sombra-de-los-arboles-en-quebrada-del-condorito",
+    "title": "La sombra de los árboles en Quebrada del Condorito",
+    "date": "2023-07-15",
+    "category": "hiking",
+    "excerpt": "Un recorrido de ejemplo por la sierra, con la mirada puesta tanto arriba como cerca.",
+    "tags": [
+      "sierras",
+      "aire libre",
+      "caminar"
+    ],
+    "collections": [
+      "Cuaderno de caminos"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "parks": [
+      "Parque Nacional Quebrada del Condorito"
+    ],
+    "trails": [
+      "Balcón Norte"
+    ],
+    "distance_km": 12,
+    "elevation_m": 300,
+    "duration_minutes": 300,
+    "difficulty": "Moderada",
+    "image": "patagonia.jpg"
+  },
+  {
+    "slug": "kind-of-blue-sin-hacer-otra-cosa",
+    "title": "Kind of Blue, sin hacer otra cosa",
+    "date": "2023-05-21",
+    "category": "music",
+    "excerpt": "La diferencia entre poner música y escucharla aparece cuando cerramos una pestaña.",
+    "tags": [
+      "jazz",
+      "álbumes",
+      "escucha atenta"
+    ],
+    "collections": [
+      "Domingos de música"
+    ],
+    "people": [
+      "Miles Davis"
+    ],
+    "genres": [
+      "Jazz"
+    ],
+    "media": {
+      "title": "Kind of Blue",
+      "creator": "Miles Davis",
+      "year": 1959,
+      "rating": 5,
+      "status": "Escuchado",
+      "color": "#405675"
+    }
+  },
+  {
+    "slug": "severance-y-el-derecho-a-desconectar",
+    "title": "Severance y el derecho a desconectar",
+    "date": "2023-03-17",
+    "category": "tvseries",
+    "excerpt": "Una ficción extraña para pensar una frontera cotidiana: dónde termina el trabajo.",
+    "tags": [
+      "trabajo",
+      "desconexión",
+      "identidad"
+    ],
+    "collections": [
+      "Historias para volver"
+    ],
+    "countries": [
+      "Estados Unidos"
+    ],
+    "people": [
+      "Dan Erickson"
+    ],
+    "genres": [
+      "Ciencia ficción"
+    ],
+    "media": {
+      "title": "Severance",
+      "creator": "Dan Erickson",
+      "year": 2022,
+      "rating": 5,
+      "status": "En curso",
+      "color": "#507981"
+    }
+  },
+  {
+    "slug": "las-ciudades-invisibles-un-atlas-de-preguntas",
+    "title": "Las ciudades invisibles: un atlas de preguntas",
+    "date": "2022-10-13",
+    "category": "books",
+    "excerpt": "Leer una ciudad inventada para mirar mejor la que está del otro lado de la ventana.",
+    "tags": [
+      "ciudades",
+      "imaginación",
+      "lectura lenta"
+    ],
+    "collections": [
+      "Bibliotecas posibles"
+    ],
+    "countries": [
+      "Italia"
+    ],
+    "people": [
+      "Italo Calvino"
+    ],
+    "genres": [
+      "Novela"
+    ],
+    "media": {
+      "title": "Las ciudades invisibles",
+      "creator": "Italo Calvino",
+      "year": 1972,
+      "pages": 176,
+      "rating": 5,
+      "status": "Leído",
+      "color": "#597e7b"
+    }
+  },
+  {
+    "slug": "lisboa-guardar-una-ciudad-en-cinco-detalles",
+    "title": "Lisboa: guardar una ciudad en cinco detalles",
+    "date": "2022-07-18",
+    "category": "trips",
+    "excerpt": "Una historia de viaje de demostración sobre lo que no entra en una postal.",
+    "tags": [
+      "ciudades",
+      "viajes",
+      "memoria"
+    ],
+    "collections": [
+      "Ciudades a pie"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "distance_km": 10200,
+    "image": "buenos-aires.jpg"
+  },
+  {
+    "slug": "una-lista-de-cosas-que-no-quiero-apurar",
+    "title": "Una lista de cosas que no quiero apurar",
+    "date": "2022-04-02",
+    "category": "essays",
+    "excerpt": "No se trata de hacer todo lento. Se trata de elegir qué merece otro ritmo.",
+    "tags": [
+      "vida lenta",
+      "atención",
+      "tiempo"
+    ],
+    "collections": [
+      "Preguntas abiertas"
+    ],
+    "genres": [
+      "Ensayo"
+    ]
+  },
+  {
+    "slug": "aprender-a-reparar-antes-de-reemplazar",
+    "title": "Aprender a reparar antes de reemplazar",
+    "date": "2022-01-05",
+    "category": "general",
+    "excerpt": "Una tarde con una costura, un tutorial y la satisfacción de conservar algo.",
+    "tags": [
+      "reparación",
+      "vida simple",
+      "objetos"
+    ],
+    "collections": [
+      "Pequeñas ceremonias"
+    ]
+  }
+]

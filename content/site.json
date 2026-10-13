@@ -1,0 +1,42 @@
+{
+  "name": "a paso lento",
+  "tagline": "Un cuaderno de lecturas, caminos y pequeñas cosas.",
+  "description": "Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.",
+  "author": "Alex Ríos",
+  "location": "Buenos Aires, Argentina",
+  "language": "es-AR",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "site_url": "",
+  "email": "",
+  "demo": true,
+  "updated": "2026-10-13",
+  "categories": [
+    {"slug":"books","name":"Lecturas","description":"Libros que dejan preguntas y ganas de seguir leyendo.","icon":"book","color":"#517362","pale":"#eaf0e7"},
+    {"slug":"hiking","name":"Caminatas","description":"Senderos, aire libre y kilómetros sin apuro.","icon":"mountain","color":"#8b653c","pale":"#f2ebdf"},
+    {"slug":"journal","name":"Diario","description":"Una colección de pequeñas escenas cotidianas.","icon":"pen","color":"#a47c30","pale":"#f7efdc"},
+    {"slug":"music","name":"Música","description":"Discos para escuchar de principio a fin.","icon":"music","color":"#836077","pale":"#f1e8ed"},
+    {"slug":"movies","name":"Cine","description":"Películas que siguen viviendo después de los créditos.","icon":"film","color":"#4f777d","pale":"#e6f0ef"},
+    {"slug":"tvseries","name":"Series","description":"Historias a las que volvemos capítulo a capítulo.","icon":"tv","color":"#547088","pale":"#e9eef5"},
+    {"slug":"development","name":"Tecnología","description":"Una web más pequeña, sencilla y humana.","icon":"code","color":"#72649a","pale":"#efebf5"},
+    {"slug":"trips","name":"Viajes","description":"Lugares nuevos y otras formas de ver lo conocido.","icon":"compass","color":"#588178","pale":"#e7f1ed"},
+    {"slug":"projects","name":"Proyectos","description":"Ideas que empiezan en un cuaderno y encuentran su forma.","icon":"bulb","color":"#ad693c","pale":"#f7ede2"},
+    {"slug":"essays","name":"Ensayos","description":"Pensar en voz baja sobre lo que de verdad importa.","icon":"leaf","color":"#75804e","pale":"#edf1e4"},
+    {"slug":"biking","name":"Bicicleta","description":"El mundo se siente distinto sobre dos ruedas.","icon":"bike","color":"#527789","pale":"#e9f0f3"},
+    {"slug":"gems","name":"Fotografía","description":"Intentos de guardar la luz y no solo el lugar.","icon":"camera","color":"#9c7560","pale":"#f5ece4"},
+    {"slug":"mac","name":"Herramientas","description":"Objetos y herramientas que acompañan el trabajo.","icon":"laptop","color":"#6b7183","pale":"#eceef4"},
+    {"slug":"remembering","name":"Recuerdos","description":"Lo que vale la pena conservar.","icon":"heart","color":"#aa7776","pale":"#f6e9e6"},
+    {"slug":"general","name":"Vida simple","description":"Hacer lugar, elegir menos, disfrutar mejor.","icon":"coffee","color":"#8c805c","pale":"#f3f0e6"},
+    {"slug":"monthlyupdates","name":"Resumen mensual","description":"Una pausa para mirar lo que dejó cada mes.","icon":"calendar","color":"#6d7e68","pale":"#eaf0e7"}
+  ],
+  "taxonomies": {
+    "categories": {"name":"Categorías","singular":"Categoría","description":"Dieciséis puertas de entrada a este cuaderno.","icon":"grid"},
+    "tags": {"name":"Etiquetas","singular":"Etiqueta","description":"Ideas que se conectan a través de distintas notas.","icon":"tag"},
+    "years": {"name":"Años","singular":"Año","description":"El archivo, visto con un poco de perspectiva.","icon":"calendar"},
+    "collections": {"name":"Colecciones","singular":"Colección","description":"Pequeñas series de notas alrededor de una misma curiosidad.","icon":"layers"},
+    "countries": {"name":"Países","singular":"País","description":"La geografía de las historias de este cuaderno.","icon":"globe"},
+    "genres": {"name":"Géneros","singular":"Género","description":"Formas de contar, de sonar y de imaginar.","icon":"film"},
+    "parks": {"name":"Parques","singular":"Parque","description":"Espacios verdes y naturaleza para volver a respirar.","icon":"leaf"},
+    "people": {"name":"Personas","singular":"Persona","description":"Autores, músicos y cineastas presentes en las notas.","icon":"pen"},
+    "trails": {"name":"Senderos","singular":"Sendero","description":"Caminos recorridos, uno a uno.","icon":"mountain"}
+  }
+}

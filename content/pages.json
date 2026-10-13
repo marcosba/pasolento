@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "about",
+    "title": "Un cuaderno, muchas curiosidades.",
+    "kicker": "SOBRE MÍ",
+    "description": "Leer, caminar y encontrar algo que valga la pena guardar.",
+    "icon": "pen"
+  },
+  {
+    "slug": "contact",
+    "title": "La conversación sigue por acá.",
+    "kicker": "CONTACTO",
+    "description": "Un espacio para conectar, sin formularios que envían a ninguna parte.",
+    "icon": "mail"
+  },
+  {
+    "slug": "death",
+    "title": "Lo que quisiera dejar.",
+    "kicker": "UNA PREGUNTA PERSONAL",
+    "description": "Pensar el archivo también es pensar qué merece permanecer.",
+    "icon": "heart"
+  },
+  {
+    "slug": "hills",
+    "title": "Ideas que intento cuidar.",
+    "kicker": "CONVICCIONES",
+    "description": "No una lista de verdades: una manera provisional de estar.",
+    "icon": "mountain"
+  },
+  {
+    "slug": "interests",
+    "title": "Curiosidades en común.",
+    "kicker": "INTERESES",
+    "description": "Un índice informal de lo que me hace levantar la mirada.",
+    "icon": "spark"
+  },
+  {
+    "slug": "nope",
+    "title": "Cosas a las que digo que no.",
+    "kicker": "PREFERENCIAS",
+    "description": "Dejar algo afuera también es una manera de hacer lugar.",
+    "icon": "x"
+  },
+  {
+    "slug": "yep",
+    "title": "Cosas a las que digo que sí.",
+    "kicker": "PREFERENCIAS",
+    "description": "Un inventario pequeño de buenas compañías.",
+    "icon": "check"
+  },
+  {
+    "slug": "top4",
+    "title": "Cuatro para empezar.",
+    "kicker": "FAVORITOS",
+    "description": "Una selección breve para no abrumar con recomendaciones.",
+    "icon": "star"
+  },
+  {
+    "slug": "where",
+    "title": "Una ciudad, muchos caminos.",
+    "kicker": "DÓNDE",
+    "description": "Buenos Aires como punto de partida de este cuaderno.",
+    "icon": "pin"
+  },
+  {
+    "slug": "blogroll",
+    "title": "Otros cuadernos abiertos.",
+    "kicker": "RECOMENDACIONES",
+    "description": "La web es mejor cuando los enlaces llevan a otras personas.",
+    "icon": "globe"
+  },
+  {
+    "slug": "links",
+    "title": "Enlaces con una segunda vida.",
+    "kicker": "RECOMENDACIONES",
+    "description": "Herramientas y lugares de consulta que vale la pena guardar.",
+    "icon": "arrow-up"
+  },
+  {
+    "slug": "podroll",
+    "title": "Voces para acompañar el camino.",
+    "kicker": "RECOMENDACIONES",
+    "description": "Un puñado de podcasts para escuchar con tiempo.",
+    "icon": "music"
+  },
+  {
+    "slug": "ideas",
+    "title": "Ideas sin fecha de entrega.",
+    "kicker": "LISTAS VIVAS",
+    "description": "Una lista que no necesita convertirse enseguida en un plan.",
+    "icon": "bulb"
+  },
+  {
+    "slug": "now",
+    "title": "Lo que me ocupa, ahora.",
+    "kicker": "AHORA",
+    "description": "Una instantánea, no un currículum. Actualizada el 13 de octubre de 2026.",
+    "icon": "clock"
+  },
+  {
+    "slug": "someday",
+    "title": "Algún día, sin apuro.",
+    "kicker": "LISTAS VIVAS",
+    "description": "Deseos que todavía no necesitan un calendario.",
+    "icon": "compass"
+  },
+  {
+    "slug": "uses",
+    "title": "Herramientas que acompañan.",
+    "kicker": "USO",
+    "description": "Una lista de ejemplo, sin afiliados ni recomendaciones universales.",
+    "icon": "laptop"
+  },
+  {
+    "slug": "colophon",
+    "title": "Hecho de archivos y atención.",
+    "kicker": "COLOFÓN",
+    "description": "La tecnología del cuaderno, sin caja negra.",
+    "icon": "code"
+  },
+  {
+    "slug": "changelog",
+    "title": "El cuaderno también cambia.",
+    "kicker": "REGISTRO DE CAMBIOS",
+    "description": "Pequeñas mejoras, registradas para poder volver atrás.",
+    "icon": "calendar"
+  },
+  {
+    "slug": "ai",
+    "title": "Una nota sobre la inteligencia artificial.",
+    "kicker": "TRANSPARENCIA",
+    "description": "Distinguir una demostración, una ilustración y un documento importa.",
+    "icon": "spark"
+  },
+  {
+    "slug": "public-keys",
+    "title": "Claves públicas, con contexto.",
+    "kicker": "SEGURIDAD",
+    "description": "No confundir una muestra con una identidad verificada.",
+    "icon": "key"
+  },
+  {
+    "slug": "terms",
+    "title": "Unas condiciones sencillas.",
+    "kicker": "LEGAL",
+    "description": "Texto orientativo para esta versión de demostración.",
+    "icon": "info"
+  },
+  {
+    "slug": "privacy",
+    "title": "Tu lectura no necesita un seguimiento.",
+    "kicker": "PRIVACIDAD",
+    "description": "Qué sucede con los datos, en términos concretos.",
+    "icon": "bookmark"
+  },
+  {
+    "slug": "guide",
+    "title": "Un paseo por todas las funciones.",
+    "kicker": "RECORRIDO DE LA DEMO",
+    "description": "Un itinerario corto para probar el cuaderno de punta a punta.",
+    "icon": "path"
+  }
+]
