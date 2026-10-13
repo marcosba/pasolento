@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>El silencio tiene forma de montaña</title>
+      <link>./blog/el-silencio-tiene-forma-de-montana/</link>
+      <description>Hay caminos que no llevan a un lugar: te devuelven a una forma de estar. Una mañana en El Chaltén.</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:el-silencio-tiene-forma-de-montana</guid>
+    </item>
+    <item>
+      <title>El libro del té: aprender a mirar lo pequeño</title>
+      <link>./blog/el-libro-del-te-aprender-a-mirar-lo-pequeno/</link>
+      <description>Una taza, una pausa y un libro que recuerda que la belleza no necesita hacer ruido.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:el-libro-del-te-aprender-a-mirar-lo-pequeno</guid>
+    </item>
+    <item>
+      <title>Una mañana sin notificaciones</title>
+      <link>./blog/una-manana-sin-notificaciones/</link>
+      <description>Dejar el teléfono en otra habitación no cambia la vida. Pero cambia bastante una mañana.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Diario</category>
+      <guid isPermaLink="false">a-paso-lento:una-manana-sin-notificaciones</guid>
+    </item>
+    <item>
+      <title>Un disco para abrir las ventanas</title>
+      <link>./blog/un-disco-para-abrir-las-ventanas/</link>
+      <description>Volver a escuchar In Rainbows como si todavía no supiera qué canción viene después.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:un-disco-para-abrir-las-ventanas</guid>
+    </item>
+    <item>
+      <title>Septiembre, en cinco escenas</title>
+      <link>./blog/septiembre-en-cinco-escenas/</link>
+      <description>Un mes cabe mejor en unas pocas imágenes que en una lista de cosas terminadas.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Resumen mensual</category>
+      <guid isPermaLink="false">a-paso-lento:septiembre-en-cinco-escenas</guid>
+    </item>
+    <item>
+      <title>Una web que pesa menos que una foto</title>
+      <link>./blog/una-web-que-pesa-menos-que-una-foto/</link>
+      <description>Archivos simples, enlaces que funcionan y una pequeña reivindicación de la web personal.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Tecnología</category>
+      <guid isPermaLink="false">a-paso-lento:una-web-que-pesa-menos-que-una-foto</guid>
+    </item>
+    <item>
+      <title>Perfect Days y la belleza de repetir</title>
+      <link>./blog/perfect-days-y-la-belleza-de-repetir/</link>
+      <description>Una película que no confunde una vida pequeña con una vida vacía.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:perfect-days-y-la-belleza-de-repetir</guid>
+    </item>
+    <item>
+      <title>Caminar: un libro que se lee con los pies</title>
+      <link>./blog/caminar-un-libro-que-se-lee-con-los-pies/</link>
+      <description>Una invitación a salir que encontré, paradójicamente, sentado en una silla.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:caminar-un-libro-que-se-lee-con-los-pies</guid>
+    </item>
+    <item>
+      <title>La laguna que espera al final del camino</title>
+      <link>./blog/la-laguna-que-espera-al-final-del-camino/</link>
+      <description>Una salida imaginaria hacia Laguna de los Tres, con mucho viento y ninguna urgencia.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:la-laguna-que-espera-al-final-del-camino</guid>
+    </item>
+    <item>
+      <title>Detectorists: encontrar sin buscar</title>
+      <link>./blog/detectorists-encontrar-sin-buscar/</link>
+      <description>La amistad, el paisaje y esas búsquedas que terminan hablando de otra cosa.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:detectorists-encontrar-sin-buscar</guid>
+    </item>
+    <item>
+      <title>Montevideo, del otro lado del río</title>
+      <link>./blog/montevideo-del-otro-lado-del-rio/</link>
+      <description>Cruzar cerca para mirar distinto: una tarde sin itinerario en la Ciudad Vieja.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:montevideo-del-otro-lado-del-rio</guid>
+    </item>
+    <item>
+      <title>Treinta kilómetros antes del desayuno</title>
+      <link>./blog/treinta-kilometros-antes-del-desayuno/</link>
+      <description>El aire de la mañana y una ruta conocida que nunca es exactamente la misma.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Bicicleta</category>
+      <guid isPermaLink="false">a-paso-lento:treinta-kilometros-antes-del-desayuno</guid>
+    </item>
+    <item>
+      <title>La pequeña ceremonia del café</title>
+      <link>./blog/la-pequena-ceremonia-del-cafe/</link>
+      <description>No hace falta un ritual perfecto. Hace falta estar un momento en el lugar donde estamos.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Vida simple</category>
+      <guid isPermaLink="false">a-paso-lento:la-pequena-ceremonia-del-cafe</guid>
+    </item>
+    <item>
+      <title>San Telmo, cuando todavía está despertando</title>
+      <link>./blog/san-telmo-cuando-todavia-esta-despertando/</link>
+      <description>Salir con una cámara y volver con más preguntas sobre la luz que fotos.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Fotografía</category>
+      <guid isPermaLink="false">a-paso-lento:san-telmo-cuando-todavia-esta-despertando</guid>
+    </item>
+    <item>
+      <title>Una habitación propia, cien años después</title>
+      <link>./blog/una-habitacion-propia-cien-anos-despues/</link>
+      <description>Volver a Virginia Woolf para pensar el espacio, el tiempo y las condiciones de crear.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:una-habitacion-propia-cien-anos-despues</guid>
+    </item>
+    <item>
+      <title>El pulso tranquilo de Chet Baker</title>
+      <link>./blog/el-pulso-tranquilo-de-chet-baker/</link>
+      <description>Un disco para escuchar las respiraciones entre las canciones.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:el-pulso-tranquilo-de-chet-baker</guid>
+    </item>
+    <item>
+      <title>Un mapa de lugares para volver</title>
+      <link>./blog/un-mapa-de-lugares-para-volver/</link>
+      <description>Un proyecto pequeño: guardar lugares por lo que hicieron sentir, no por su puntuación.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Proyectos</category>
+      <guid isPermaLink="false">a-paso-lento:un-mapa-de-lugares-para-volver</guid>
+    </item>
+    <item>
+      <title>No todo lo que importa se puede medir</title>
+      <link>./blog/no-todo-lo-que-importa-se-puede-medir/</link>
+      <description>Los números son una buena herramienta, siempre que no los confundamos con la experiencia.</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Ensayos</category>
+      <guid isPermaLink="false">a-paso-lento:no-todo-lo-que-importa-se-puede-medir</guid>
+    </item>
+    <item>
+      <title>Un escritorio que deja espacio para pensar</title>
+      <link>./blog/un-escritorio-que-deja-espacio-para-pensar/</link>
+      <description>Las herramientas que uso menos son, a veces, las que mejor me acompañan.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Herramientas</category>
+      <guid isPermaLink="false">a-paso-lento:un-escritorio-que-deja-espacio-para-pensar</guid>
+    </item>
+    <item>
+      <title>El cuaderno de mi abuelo</title>
+      <link>./blog/el-cuaderno-de-mi-abuelo/</link>
+      <description>Una historia ficticia sobre las cosas ordinarias que terminan guardando una vida.</description>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Recuerdos</category>
+      <guid isPermaLink="false">a-paso-lento:el-cuaderno-de-mi-abuelo</guid>
+    </item>
+    <item>
+      <title>Walden: una pregunta, no una receta</title>
+      <link>./blog/walden-una-pregunta-no-una-receta/</link>
+      <description>Leer una vida retirada sin creer que hace falta copiarla.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:walden-una-pregunta-no-una-receta</guid>
+    </item>
+    <item>
+      <title>Cerro Campanario sin el reloj</title>
+      <link>./blog/cerro-campanario-sin-el-reloj/</link>
+      <description>Subir despacio para que el paisaje no llegue antes que nosotros.</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:cerro-campanario-sin-el-reloj</guid>
+    </item>
+    <item>
+      <title>Paterson: los poemas que pasan cerca</title>
+      <link>./blog/paterson-los-poemas-que-pasan-cerca/</link>
+      <description>Una libreta, una ciudad y la idea de que crear puede ser una parte discreta de la vida.</description>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:paterson-los-poemas-que-pasan-cerca</guid>
+    </item>
+    <item>
+      <title>Midnight Diner: historias alrededor de una mesa</title>
+      <link>./blog/midnight-diner-historias-alrededor-de-una-mesa/</link>
+      <description>Una puerta abierta de noche y una manera de escuchar sin resolver la vida de nadie.</description>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:midnight-diner-historias-alrededor-de-una-mesa</guid>
+    </item>
+    <item>
+      <title>Blue: escuchar las costuras</title>
+      <link>./blog/blue-escuchar-las-costuras/</link>
+      <description>Hay discos que parecen terminados y, aun así, dejan ver el trabajo de sentir.</description>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:blue-escuchar-las-costuras</guid>
+    </item>
+    <item>
+      <title>Ficciones y el placer de perderse</title>
+      <link>./blog/ficciones-y-el-placer-de-perderse/</link>
+      <description>Entrar en un cuento como quien entra en una biblioteca que no termina.</description>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:ficciones-y-el-placer-de-perderse</guid>
+    </item>
+    <item>
+      <title>Valparaíso: caminar entre colores</title>
+      <link>./blog/valparaiso-caminar-entre-colores/</link>
+      <description>Una ciudad que me hizo cambiar de dirección más veces de las que había previsto.</description>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:valparaiso-caminar-entre-colores</guid>
+    </item>
+    <item>
+      <title>Entre lengas, hacia Laguna Capri</title>
+      <link>./blog/entre-lengas-hacia-laguna-capri/</link>
+      <description>Un sendero conocido en una estación distinta, y el permiso para detenerse más.</description>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:entre-lengas-hacia-laguna-capri</guid>
+    </item>
+    <item>
+      <title>La vida de los otros: aprender a escuchar</title>
+      <link>./blog/la-vida-de-los-otros-aprender-a-escuchar/</link>
+      <description>Una historia que cambia de sentido cada vez que alguien realmente presta atención.</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:la-vida-de-los-otros-aprender-a-escuchar</guid>
+    </item>
+    <item>
+      <title>El jardín digital no necesita una aplicación</title>
+      <link>./blog/el-jardin-digital-no-necesita-una-aplicacion/</link>
+      <description>Una carpeta de notas puede ser el principio de un lugar propio en la web.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <category>Tecnología</category>
+      <guid isPermaLink="false">a-paso-lento:el-jardin-digital-no-necesita-una-aplicacion</guid>
+    </item>
+    <item>
+      <title>Siddhartha y las preguntas que cambian</title>
+      <link>./blog/siddhartha-y-las-preguntas-que-cambian/</link>
+      <description>Releer una búsqueda conocida y descubrir que ya no pregunto desde el mismo lugar.</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:siddhartha-y-las-preguntas-que-cambian</guid>
+    </item>
+    <item>
+      <title>El viaje luminoso de Artaud</title>
+      <link>./blog/el-viaje-luminoso-de-artaud/</link>
+      <description>Escuchar un disco conocido sin dejar que la costumbre termine las canciones antes de tiempo.</description>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:el-viaje-luminoso-de-artaud</guid>
+    </item>
+    <item>
+      <title>The Bear: el tiempo de cuidar</title>
+      <link>./blog/the-bear-el-tiempo-de-cuidar/</link>
+      <description>El trabajo compartido como un lugar de tensión, aprendizaje y cuidado.</description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:the-bear-el-tiempo-de-cuidar</guid>
+    </item>
+    <item>
+      <title>Un paseo por la Reserva Ecológica</title>
+      <link>./blog/un-paseo-por-la-reserva-ecologica/</link>
+      <description>Salir de la ciudad sin dejarla del todo y volver con un volumen distinto.</description>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <category>Bicicleta</category>
+      <guid isPermaLink="false">a-paso-lento:un-paseo-por-la-reserva-ecologica</guid>
+    </item>
+    <item>
+      <title>El año en que volví a escribir a mano</title>
+      <link>./blog/el-ano-en-que-volvi-a-escribir-a-mano/</link>
+      <description>Una libreta corriente y una forma menos editable de pensar.</description>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <category>Diario</category>
+      <guid isPermaLink="false">a-paso-lento:el-ano-en-que-volvi-a-escribir-a-mano</guid>
+    </item>
+    <item>
+      <title>El principito: releer para descubrir</title>
+      <link>./blog/el-principito-releer-para-descubrir/</link>
+      <description>Un libro familiar al que no hace falta llegar con una lectura ya decidida.</description>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:el-principito-releer-para-descubrir</guid>
+    </item>
+    <item>
+      <title>Antes del amanecer, después de muchos años</title>
+      <link>./blog/antes-del-amanecer-despues-de-muchos-anos/</link>
+      <description>Volver a una conversación de cine y escuchar lo que antes no escuchaba.</description>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:antes-del-amanecer-despues-de-muchos-anos</guid>
+    </item>
+    <item>
+      <title>La sombra de los árboles en Quebrada del Condorito</title>
+      <link>./blog/la-sombra-de-los-arboles-en-quebrada-del-condorito/</link>
+      <description>Un recorrido de ejemplo por la sierra, con la mirada puesta tanto arriba como cerca.</description>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:la-sombra-de-los-arboles-en-quebrada-del-condorito</guid>
+    </item>
+    <item>
+      <title>Kind of Blue, sin hacer otra cosa</title>
+      <link>./blog/kind-of-blue-sin-hacer-otra-cosa/</link>
+      <description>La diferencia entre poner música y escucharla aparece cuando cerramos una pestaña.</description>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:kind-of-blue-sin-hacer-otra-cosa</guid>
+    </item>
+    <item>
+      <title>Severance y el derecho a desconectar</title>
+      <link>./blog/severance-y-el-derecho-a-desconectar/</link>
+      <description>Una ficción extraña para pensar una frontera cotidiana: dónde termina el trabajo.</description>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:severance-y-el-derecho-a-desconectar</guid>
+    </item>
+    <item>
+      <title>Las ciudades invisibles: un atlas de preguntas</title>
+      <link>./blog/las-ciudades-invisibles-un-atlas-de-preguntas/</link>
+      <description>Leer una ciudad inventada para mirar mejor la que está del otro lado de la ventana.</description>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:las-ciudades-invisibles-un-atlas-de-preguntas</guid>
+    </item>
+    <item>
+      <title>Lisboa: guardar una ciudad en cinco detalles</title>
+      <link>./blog/lisboa-guardar-una-ciudad-en-cinco-detalles/</link>
+      <description>Una historia de viaje de demostración sobre lo que no entra en una postal.</description>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:lisboa-guardar-una-ciudad-en-cinco-detalles</guid>
+    </item>
+    <item>
+      <title>Una lista de cosas que no quiero apurar</title>
+      <link>./blog/una-lista-de-cosas-que-no-quiero-apurar/</link>
+      <description>No se trata de hacer todo lento. Se trata de elegir qué merece otro ritmo.</description>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <category>Ensayos</category>
+      <guid isPermaLink="false">a-paso-lento:una-lista-de-cosas-que-no-quiero-apurar</guid>
+    </item>
+    <item>
+      <title>Aprender a reparar antes de reemplazar</title>
+      <link>./blog/aprender-a-reparar-antes-de-reemplazar/</link>
+      <description>Una tarde con una costura, un tutorial y la satisfacción de conservar algo.</description>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <category>Vida simple</category>
+      <guid isPermaLink="false">a-paso-lento:aprender-a-reparar-antes-de-reemplazar</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,584 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "a paso lento",
+  "home_page_url": "./",
+  "feed_url": "./feed.json",
+  "description": "Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.",
+  "language": "es-AR",
+  "items": [
+    {
+      "id": "el-silencio-tiene-forma-de-montana",
+      "url": "./blog/el-silencio-tiene-forma-de-montana/",
+      "title": "El silencio tiene forma de montaña",
+      "content_text": "Salimos cuando el pueblo todavía estaba a medio despertar. En la mochila: agua, una manzana, una capa de abrigo y un cuaderno que probablemente no iba a abrir. Frente a nosotros, las montañas parecían una conversación que llevaba siglos ocurriendo. Un paso a la vez Al principio caminé como camino por la ciudad: contando minutos, calculando cuánto faltaba, mirando hacia adelante. El sendero, con una paciencia que yo no tenía, me obligó a cambiar de ritmo. Las piedras no entienden de productividad. A los veinte minutos dejamos de hablar. No fue un silencio incómodo; fue ese silencio que aparece cuando el paisaje ocupa el lugar de las palabras. El viento entre las lengas sonaba como páginas que se pasan solas. Caminar no ordena el mundo. A veces, alcanza con que nos ordene un poco por dentro. Lo que me llevé No una gran revelación. Más bien, una lista pequeña: el color de un arroyo, el olor de la tierra fría, la forma en que una nube cambiaba la montaña sin moverla. Guardé tres fotos y borré una docena. Quería recordar la mañana, no documentar cada metro. Salir temprano hace lugar para mirar. Llevar una capa de más nunca está de más. El regreso también forma parte del camino. Antes de salir El clima de montaña puede cambiar muy rápido. Consultá las condiciones locales, llevá agua y respetá la señalización. Las cifras de este recorrido son ilustrativas: este cuaderno no reemplaza una guía actualizada. Me gusta pensar que no fuimos a conquistar nada. La montaña ya estaba ahí. Fuimos, simplemente, a prestar atención.",
+      "summary": "Hay caminos que no llevan a un lugar: te devuelven a una forma de estar. Una mañana en El Chaltén.",
+      "date_published": "2026-10-11T12:00:00-03:00",
+      "tags": [
+        "Patagonia",
+        "aire libre",
+        "atención",
+        "vida lenta"
+      ]
+    },
+    {
+      "id": "el-libro-del-te-aprender-a-mirar-lo-pequeno",
+      "url": "./blog/el-libro-del-te-aprender-a-mirar-lo-pequeno/",
+      "title": "El libro del té: aprender a mirar lo pequeño",
+      "content_text": "Compré este libro por su tamaño. Cabía en un bolsillo y prometía una tarde de lectura. Terminó acompañándome durante una semana: no porque fuera difícil, sino porque cada capítulo pedía quedarse un rato. Una ceremonia sin solemnidad Okakura escribe sobre el té, pero también sobre el modo en que habitamos una habitación, cuidamos una flor o recibimos a alguien. Me interesó esa idea de una belleza cotidiana, incompleta, que no necesita una ocasión especial para existir. La lectura me encontró un domingo, con una taza de café. La contradicción me hizo sonreír. Tal vez el ritual no dependa tanto de la bebida como de la atención que le damos. Lo pequeño deja de ser pequeño cuando le prestamos toda nuestra atención. Subrayados al margen No busqué convertir la lectura en una lista de hábitos. Me quedé con tres preguntas: ¿qué cosas hago en automático?, ¿cuáles merecen una pausa?, ¿cuántas veces paso por alto algo hermoso por estar pensando en lo siguiente? El libro no ofrece soluciones rápidas. Tiene algo mucho mejor: una conversación que continúa cuando cerramos la tapa. Para volver Lo dejé en la mesa en vez de guardarlo en la biblioteca. Algunas lecturas funcionan así: como un objeto cercano que nos recuerda una posibilidad. Esta semana estoy intentando tomar la primera taza del día sin una pantalla al lado. Los datos de edición y la valoración de esta reseña pertenecen al contenido de demostración.",
+      "summary": "Una taza, una pausa y un libro que recuerda que la belleza no necesita hacer ruido.",
+      "date_published": "2026-10-08T12:00:00-03:00",
+      "tags": [
+        "lectura lenta",
+        "rituales",
+        "atención"
+      ]
+    },
+    {
+      "id": "una-manana-sin-notificaciones",
+      "url": "./blog/una-manana-sin-notificaciones/",
+      "title": "Una mañana sin notificaciones",
+      "content_text": "El experimento era ridículamente sencillo: dejar el teléfono cargando en la cocina y desayunar junto a la ventana. Sin temporizador, sin aplicación de hábitos, sin foto para demostrarlo. El ruido que no sabía que estaba Los primeros minutos busqué el teléfono con la mano, como se busca una llave en el bolsillo. Después apareció algo que había olvidado: no tener ninguna pregunta pendiente de respuesta. El café estaba un poco más frío de lo ideal. Afuera, alguien barría la vereda. Un colectivo frenó en la esquina. Nada extraordinario, y justamente por eso valía la pena mirarlo. Una regla amable No quiero volver esto una competencia conmigo mismo. Habrá mañanas con urgencias y mensajes importantes. La idea no es desaparecer, sino dejar un pequeño espacio antes de salir al mundo. Escribí dos líneas en el cuaderno y leí cuatro páginas. Cuando fui a buscar el teléfono, el día ya había empezado de otra manera. A veces, una buena mañana empieza con algo que elegimos no hacer.",
+      "summary": "Dejar el teléfono en otra habitación no cambia la vida. Pero cambia bastante una mañana.",
+      "date_published": "2026-10-05T12:00:00-03:00",
+      "tags": [
+        "vida lenta",
+        "hábitos",
+        "desconexión"
+      ]
+    },
+    {
+      "id": "un-disco-para-abrir-las-ventanas",
+      "url": "./blog/un-disco-para-abrir-las-ventanas/",
+      "title": "Un disco para abrir las ventanas",
+      "content_text": "Puse el disco antes de hacer cualquier otra cosa. No como fondo para trabajar, ni para lavar los platos. Simplemente lo puse y me senté cerca de la ventana abierta. Escuchar de principio a fin Conozco estas canciones desde hace años, pero rara vez les doy el espacio de un álbum entero. Escuchar así cambia las relaciones entre ellas: una pausa deja de ser un hueco y se vuelve parte del ritmo. En algunas canciones encontré detalles que había pasado por alto: una respiración, una guitarra lejos del centro, una capa de percusión que aparece casi sin avisar. La música también necesita una habitación No hace falta un equipo especial. Esta vez fueron dos parlantes pequeños, una mañana gris y la decisión de no tocar el botón de siguiente. Me gusta cuando un disco deja una atmósfera que dura un poco más que su última canción. La casa siguió sonando de otra manera durante un rato.",
+      "summary": "Volver a escuchar In Rainbows como si todavía no supiera qué canción viene después.",
+      "date_published": "2026-10-02T12:00:00-03:00",
+      "tags": [
+        "álbumes",
+        "escucha atenta",
+        "otoño"
+      ]
+    },
+    {
+      "id": "septiembre-en-cinco-escenas",
+      "url": "./blog/septiembre-en-cinco-escenas/",
+      "title": "Septiembre, en cinco escenas",
+      "content_text": "Septiembre dejó una caminata, una película que seguí pensando varios días y un libro con las esquinas dobladas. También una semana de lluvia en la que casi no salí del barrio. Cinco cosas que me quedan La luz sobre la laguna antes de volver. Una conversación inesperadamente larga en una librería. Los árboles de una película vistos desde otra ciudad. Un cruce del río con la mochila liviana. La primera mañana en que no hizo falta bufanda. Lo que no entra en los números Me gustan las estadísticas de este cuaderno, pero no cuentan todo. No cuentan el tiempo mirando una misma página ni los días en que no escribí nada y, sin embargo, estuve prestando atención. Por eso guardo ambos registros: los números y las escenas. Uno me ayuda a recordar cuánto; el otro, cómo. Para octubre Terminar un libro sin elegir todavía el siguiente. Volver a un sendero conocido. Hacer una pequeña mejora al blog y dejar de tocarlo por unos días. Los resúmenes del archivo mensual agrupan automáticamente las entradas por fecha. Esta nota es la versión personal y narrativa del mismo mes.",
+      "summary": "Un mes cabe mejor en unas pocas imágenes que en una lista de cosas terminadas.",
+      "date_published": "2026-10-01T12:00:00-03:00",
+      "tags": [
+        "balance",
+        "archivo",
+        "estaciones"
+      ]
+    },
+    {
+      "id": "una-web-que-pesa-menos-que-una-foto",
+      "url": "./blog/una-web-que-pesa-menos-que-una-foto/",
+      "title": "Una web que pesa menos que una foto",
+      "content_text": "Este cuaderno empezó con una pregunta: ¿cuánta infraestructura necesita un lugar para escribir? Mucho menos de la que solemos imaginar. Un archivo de texto, una hoja de estilos y una carpeta pueden ser una casa perfectamente habitable. El contenido primero Cada nota vive en un archivo Markdown. La fecha, las etiquetas y las relaciones se guardan aparte, en un pequeño índice. Al construir el sitio, esos datos se convierten en páginas HTML independientes. from pathlib import Path cuaderno = Path(\"content/posts\") for nota in sorted(cuaderno.glob(\"*.md\")): print(nota.stem) El servidor no tiene que calcular nada al recibir una visita. Solo entrega archivos. Esa sencillez también significa que una nota se puede leer con JavaScript desactivado. 1 Pequeñas mejoras, no dependencias La búsqueda, el cambio de tema y las notas guardadas suceden en el navegador. Son una capa adicional, no el requisito para llegar al contenido. Función Dónde sucede Qué guarda Estadísticas Durante la construcción HTML y JSON Búsqueda En tu navegador Nada en el servidor Guardados En tu navegador Identificadores locales RSS Archivo estático Entradas y enlaces Una regla para los enlaces Las rutas son relativas. El mismo sitio funciona en un dominio propio y dentro de una carpeta de GitHub Pages, sin un servidor de rutas especiales. Una web que se puede llevar Podés descargar el sitio y conservarlo. Los estilos, las tipografías y las ilustraciones están incluidos: no dependen de una red de terceros para aparecer. ¿Qué cambia si publico en GitHub Pages? El workflow incluido construye las páginas y publica el resultado. La dirección real del sitio se usa para los enlaces del RSS y los metadatos. No hace falta un backend ni una base de datos. El formato también cuenta Un título claro, una tabla legible, una cita, una lista y suficiente aire. El diseño ayuda cuando desaparece lo justo para que podamos seguir leyendo. La mejor herramienta es la que no se interpone entre una idea y su forma. La tabla de contenido, el botón para copiar código, las notas al pie y el modo de lectura de esta página sirven como recorrido por las posibilidades del editor. Las funciones interactivas sí necesitan JavaScript; la navegación, las notas, los índices y las estadísticas siguen siendo HTML estático. ↩",
+      "summary": "Archivos simples, enlaces que funcionan y una pequeña reivindicación de la web personal.",
+      "date_published": "2026-09-28T12:00:00-03:00",
+      "tags": [
+        "web personal",
+        "Markdown",
+        "GitHub Pages",
+        "accesibilidad"
+      ]
+    },
+    {
+      "id": "perfect-days-y-la-belleza-de-repetir",
+      "url": "./blog/perfect-days-y-la-belleza-de-repetir/",
+      "title": "Perfect Days y la belleza de repetir",
+      "content_text": "Hay películas que nos empujan hacia adelante. Esta me invitó a quedarme. Sus días se parecen entre sí, pero la repetición no borra las diferencias: una luz, una canción, una persona cambian el sentido de la jornada. Mirar los intervalos Lo que más recuerdo no es una escena espectacular. Es la manera de detenerse entre dos tareas. Una mirada a las hojas de un árbol. Un libro antes de dormir. El espacio entre una obligación y la siguiente. Me hizo pensar en cuántas veces trato la rutina como algo que hay que atravesar para llegar a lo importante. Tal vez parte de lo importante esté precisamente ahí. Después de los créditos Al salir caminé sin auriculares. No para imitar al personaje, sino porque la película había afinado un poco mi atención. No todo lo cotidiano es hermoso, ni hace falta romantizarlo. Pero a veces una historia nos devuelve la capacidad de ver lo que la costumbre había vuelto invisible.",
+      "summary": "Una película que no confunde una vida pequeña con una vida vacía.",
+      "date_published": "2026-09-25T12:00:00-03:00",
+      "tags": [
+        "rutinas",
+        "atención",
+        "cine japonés"
+      ]
+    },
+    {
+      "id": "caminar-un-libro-que-se-lee-con-los-pies",
+      "url": "./blog/caminar-un-libro-que-se-lee-con-los-pies/",
+      "title": "Caminar: un libro que se lee con los pies",
+      "content_text": "Leí la primera mitad dentro de casa y terminé la segunda en un banco de plaza. No lo había planeado; el libro fue haciendo su trabajo, despacio. Una distancia distinta Me interesa la idea de caminar sin convertir cada salida en un recorrido optimizado. Encontrar una calle por curiosidad, doblar porque hay sombra, volver por un lugar diferente. El texto de Thoreau puede ser discutido, como toda invitación intensa a la vida al aire libre. No leo sus páginas como un programa que deba obedecer. Las leo como una pregunta que se mueve. Leer y salir Anoté menos de lo habitual. Algunas frases pedían una caminata en lugar de un subrayado. Al volver, una idea que parecía abstracta había tomado la forma concreta de una vereda y un árbol. Un buen libro no siempre te pide otra página. A veces te pide abrir la puerta. La edición y las páginas consignadas son orientativas y forman parte de esta biblioteca de demostración.",
+      "summary": "Una invitación a salir que encontré, paradójicamente, sentado en una silla.",
+      "date_published": "2026-09-20T12:00:00-03:00",
+      "tags": [
+        "naturaleza",
+        "lectura lenta",
+        "caminar"
+      ]
+    },
+    {
+      "id": "la-laguna-que-espera-al-final-del-camino",
+      "url": "./blog/la-laguna-que-espera-al-final-del-camino/",
+      "title": "La laguna que espera al final del camino",
+      "content_text": "Hay una parte del sendero en la que la laguna todavía no aparece y el cansancio ya llegó. Es un buen lugar para recordar que las promesas del paisaje no son un contrato. La subida En esta caminata de demostración, el viento marcó el ritmo mejor que cualquier reloj. Paramos para tomar agua, ajustar las capas y mirar hacia atrás. Desde arriba, el camino que habíamos recorrido parecía una línea tímida. La última subida pidió paciencia. No es un paseo para improvisar ni para medir fuerzas con la montaña. El plan siempre tiene que incluir la posibilidad de volver antes. Una pausa azul Llegar fue hermoso, pero me quedó sobre todo la pausa. Comer algo, buscar un lugar resguardado, mirar la superficie del agua sin intentar describirla enseguida. A la vuelta todo se veía distinto. La misma ruta, otra luz, unas piernas más cansadas y una conversación más lenta. Cuidado del sendero Llevá tus residuos de regreso, respetá los cierres y consultá las condiciones con personal del parque. Distancias, desniveles y tiempos de este ejemplo son ilustrativos y no constituyen instrucciones para una salida real.",
+      "summary": "Una salida imaginaria hacia Laguna de los Tres, con mucho viento y ninguna urgencia.",
+      "date_published": "2026-09-16T12:00:00-03:00",
+      "tags": [
+        "Patagonia",
+        "lagunas",
+        "aire libre"
+      ]
+    },
+    {
+      "id": "detectorists-encontrar-sin-buscar",
+      "url": "./blog/detectorists-encontrar-sin-buscar/",
+      "title": "Detectorists: encontrar sin buscar",
+      "content_text": "La empecé una noche en la que quería ver algo tranquilo. La palabra tranquilo se queda corta: la serie tiene una manera de acompañar sin exigir una intensidad constante. El paisaje entre las frases Me gustan los momentos en que la cámara se queda con el campo mientras la conversación sigue su curso. Los personajes buscan objetos, pero también compañía, una forma de pertenecer y un rato fuera de sus preocupaciones. No todo tiene que desembocar en un gran descubrimiento para haber valido la pena. Esa es una idea que la serie sostiene con humor y afecto. Una compañía amable Vi los capítulos de a poco, sin maratón. La pausa entre uno y otro le hacía bien a la historia y a mi semana. Hay series que terminan y nos dejan esperando otra. Esta me dejó con ganas de salir a caminar con alguien y hablar de cualquier cosa.",
+      "summary": "La amistad, el paisaje y esas búsquedas que terminan hablando de otra cosa.",
+      "date_published": "2026-09-10T12:00:00-03:00",
+      "tags": [
+        "amistad",
+        "campo",
+        "humor"
+      ]
+    },
+    {
+      "id": "montevideo-del-otro-lado-del-rio",
+      "url": "./blog/montevideo-del-otro-lado-del-rio/",
+      "title": "Montevideo, del otro lado del río",
+      "content_text": "Llevé una lista de lugares y la olvidé al llegar. Empecé a caminar hacia el agua. A veces una ciudad se presenta mejor cuando no la hacemos responder de inmediato a un plan. Tres detalles Una librería con un gato dormido cerca de la caja. Una conversación en una mesa de la vereda. El sonido del viento cuando la calle se abre a la rambla. No pretendo que esos detalles describan Montevideo. Describen mi manera de estar allí durante unas horas, en esta historia de ejemplo. Viajar cerca Hay algo amable en los viajes que no exigen cambiar de vida por completo. Una mochila liviana, un trayecto que cabe en el día y el regreso con una perspectiva apenas desplazada. Guardé un boleto dentro del cuaderno. No como prueba de haber ido, sino como una forma de volver después.",
+      "summary": "Cruzar cerca para mirar distinto: una tarde sin itinerario en la Ciudad Vieja.",
+      "date_published": "2026-09-07T12:00:00-03:00",
+      "tags": [
+        "ciudades",
+        "río",
+        "viajar cerca"
+      ]
+    },
+    {
+      "id": "treinta-kilometros-antes-del-desayuno",
+      "url": "./blog/treinta-kilometros-antes-del-desayuno/",
+      "title": "Treinta kilómetros antes del desayuno",
+      "content_text": "La bicicleta estaba lista desde la noche anterior. Eso hizo que salir fuera más fácil que negociar conmigo mismo. A las siete, la calle tenía otro volumen. Un ritmo que se puede sostener No salí a buscar una marca. Fui hasta un punto conocido y volví por las calles con menos tránsito. En los semáforos, en lugar de mirar el reloj, miré cómo cambiaba la luz sobre los edificios. El paseo de este ejemplo suma treinta kilómetros, pero la sensación que quiero guardar no depende de esa cifra. Volver a casa El desayuno supo mejor sin ningún mérito deportivo especial. Me había movido, había respirado y todavía quedaba casi todo el día. Para una salida real: casco, luces, bicicleta revisada y respeto por las normas de tránsito. Las rutas urbanas cambian; este relato no es una guía de circulación.",
+      "summary": "El aire de la mañana y una ruta conocida que nunca es exactamente la misma.",
+      "date_published": "2026-09-02T12:00:00-03:00",
+      "tags": [
+        "bicicleta",
+        "mañanas",
+        "movimiento"
+      ]
+    },
+    {
+      "id": "la-pequena-ceremonia-del-cafe",
+      "url": "./blog/la-pequena-ceremonia-del-cafe/",
+      "title": "La pequeña ceremonia del café",
+      "content_text": "Durante mucho tiempo convertí el café en un sistema: medidas, tiempos y la búsqueda de un resultado igual al anterior. Después me di cuenta de que estaba haciendo del descanso otra tarea. Menos exactitud Sigo disfrutando prepararlo bien. Pero dejé de corregir cada pequeña diferencia. Algunas mañanas está más fuerte; otras, más liviano. La taza no necesita pasar un examen. Abro la ventana, pongo agua a calentar y trato de hacer solo eso. El ruido del hervor es una señal pequeña para volver al presente. Compartir una taza El mejor café de la semana suele ser el que tomo conversando. A veces ni recuerdo cómo estaba hecho. Me gustan los objetos y los procesos, pero intento no olvidar para qué sirven: para sostener una experiencia, no para reemplazarla.",
+      "summary": "No hace falta un ritual perfecto. Hace falta estar un momento en el lugar donde estamos.",
+      "date_published": "2026-08-22T12:00:00-03:00",
+      "tags": [
+        "rituales",
+        "café",
+        "vida lenta"
+      ]
+    },
+    {
+      "id": "san-telmo-cuando-todavia-esta-despertando",
+      "url": "./blog/san-telmo-cuando-todavia-esta-despertando/",
+      "title": "San Telmo, cuando todavía está despertando",
+      "content_text": "Elegí una sola lente y dejé el resto en casa. No porque una limitación haga mágicamente mejores las fotos, sino porque quería prestar menos atención al equipo. Mirar antes de encuadrar La luz dibujaba balcones sobre las fachadas. Un árbol movía las sombras como si alguien estuviera pasando una página transparente sobre la pared. Hice una foto y esperé. Durante esa espera el lugar empezó a parecer menos una imagen y más una escena habitada. Una imagen, dos maneras de volver La fotografía de este blog es una ilustración generada para la demostración, no un documento de un recorrido real. Me interesa decirlo con claridad: una imagen evocadora y una imagen documental no son lo mismo. Cuando salgo con una cámara de verdad, intento recordar eso. Primero el lugar y las personas; después, la foto. Dos escenas, una misma atención Una esquina y una mesa de lectura. Dos ilustraciones de la demo para mostrar que una imagen también puede ser una pausa. Tocá cualquiera para verla más grande. Una ciudad que empieza a despertar. Ilustración generada. Un rato de lectura cerca de la ventana. Ilustración generada.",
+      "summary": "Salir con una cámara y volver con más preguntas sobre la luz que fotos.",
+      "date_published": "2026-08-18T12:00:00-03:00",
+      "tags": [
+        "fotografía",
+        "Buenos Aires",
+        "luz"
+      ]
+    },
+    {
+      "id": "una-habitacion-propia-cien-anos-despues",
+      "url": "./blog/una-habitacion-propia-cien-anos-despues/",
+      "title": "Una habitación propia, cien años después",
+      "content_text": "Me interesó releer este ensayo sin buscar una frase para citar. Quería seguir el movimiento del pensamiento, sus rodeos, su humor y sus preguntas. El lugar material de una idea La lectura me hizo mirar el escritorio de otra manera. Una mesa y un rato sin interrupciones no son un lujo abstracto: son condiciones que alguien puede tener o no tener. También pensé en las voces que no llegaron a convertirse en libros. En todo el talento que no encontró tiempo, recursos o permiso. Lo que cambia al releer Un texto conocido se vuelve distinto cuando cambia quien lo lee. Esta vez subrayé menos los argumentos más famosos y más los pasajes que dejan una puerta abierta. No terminé con una conclusión redonda. Terminé con ganas de escuchar mejor a otras personas y de cuidar el espacio que tengo para escribir.",
+      "summary": "Volver a Virginia Woolf para pensar el espacio, el tiempo y las condiciones de crear.",
+      "date_published": "2026-08-12T12:00:00-03:00",
+      "tags": [
+        "relecturas",
+        "creatividad",
+        "espacio propio"
+      ]
+    },
+    {
+      "id": "el-pulso-tranquilo-de-chet-baker",
+      "url": "./blog/el-pulso-tranquilo-de-chet-baker/",
+      "title": "El pulso tranquilo de Chet Baker",
+      "content_text": "La primera canción encontró la casa en silencio. A veces el jazz pide menos conocimiento que disponibilidad: sentarse, escuchar y no tratar de entenderlo todo al mismo tiempo. Una voz cercana Me gusta la fragilidad que siento en estas canciones. No como un defecto que haya que corregir, sino como una forma particular de cercanía. La trompeta no parece querer llenar todos los espacios. Deja lugar para que una frase llegue y termine antes de que la siguiente empiece. Fuera de la lista Saqué el álbum de una lista enorme de reproducción y lo escuché completo. Fue una decisión pequeña, pero me recordó que ordenar música también puede ser una manera de no escucharla. Volví a la primera canción cuando terminó el disco. Esta vez sin hacer nada más.",
+      "summary": "Un disco para escuchar las respiraciones entre las canciones.",
+      "date_published": "2026-07-26T12:00:00-03:00",
+      "tags": [
+        "jazz",
+        "escucha atenta",
+        "álbumes"
+      ]
+    },
+    {
+      "id": "un-mapa-de-lugares-para-volver",
+      "url": "./blog/un-mapa-de-lugares-para-volver/",
+      "title": "Un mapa de lugares para volver",
+      "content_text": "Empecé una lista de bancos de plaza, librerías y rincones con sombra. No quería construir otra guía de los mejores lugares. Quería recordar dónde había estado bien. Los campos del mapa Cada lugar tiene cuatro cosas: un nombre, una dirección aproximada, una fecha y una frase. La frase es la parte más importante. A veces dice simplemente: «Acá terminamos una conversación que había empezado hace meses». Un formato portable Elegí un archivo de texto. Se puede buscar, copiar, imprimir y llevar a otro programa. El mapa visual vendrá después, si realmente hace falta. Me interesa dejar que un proyecto encuentre su tamaño. No todo necesita crecer hasta convertirse en una aplicación. Próximo paso Compartir cinco lugares con una persona y pedirle cinco a cambio. Tal vez el mejor mapa sea una conversación.",
+      "summary": "Un proyecto pequeño: guardar lugares por lo que hicieron sentir, no por su puntuación.",
+      "date_published": "2026-07-10T12:00:00-03:00",
+      "tags": [
+        "proyectos pequeños",
+        "mapas",
+        "web personal"
+      ]
+    },
+    {
+      "id": "no-todo-lo-que-importa-se-puede-medir",
+      "url": "./blog/no-todo-lo-que-importa-se-puede-medir/",
+      "title": "No todo lo que importa se puede medir",
+      "content_text": "Tengo una página de estadísticas en este blog. Cuenta palabras, libros y kilómetros. Me gusta mirarla porque convierte el tiempo en una forma visible. El borde de una cifra Un libro leído no dice cuánto me cambió. Diez kilómetros no dicen cuántas veces me detuve. Las palabras publicadas no incluyen todas las que borré porque todavía no estaban listas. Eso no vuelve inútiles a las cifras. Solo les pone un borde. Una medida es una ventana, no la casa entera. Contar lo que hacemos puede ayudarnos a recordar. No debería decirnos qué vale nuestra vida. Dos registros Intento llevar un registro cuantitativo y otro narrativo. Los números me muestran patrones; las escenas me devuelven el sentido. En un resumen mensual siempre hay algo que no entra en una tabla. A veces es precisamente lo más importante.",
+      "summary": "Los números son una buena herramienta, siempre que no los confundamos con la experiencia.",
+      "date_published": "2026-06-15T12:00:00-03:00",
+      "tags": [
+        "atención",
+        "métricas",
+        "vida lenta"
+      ]
+    },
+    {
+      "id": "un-escritorio-que-deja-espacio-para-pensar",
+      "url": "./blog/un-escritorio-que-deja-espacio-para-pensar/",
+      "title": "Un escritorio que deja espacio para pensar",
+      "content_text": "Quité del escritorio un soporte, tres cables y una libreta que nunca abría. No compré nada para reemplazarlos. El cambio más visible fue el espacio vacío. Una herramienta para cada cosa Un editor de texto para escribir, un navegador para consultar y un cuaderno para pensar sin notificaciones. La lista no es una recomendación universal: es lo que funciona en esta escena de demostración. Intento no cambiar de aplicación cuando lo que necesito es empezar una tarea. La búsqueda de la herramienta perfecta se parece demasiado a una forma elegante de postergar. El escritorio al final del día Cerrar las pestañas, guardar una nota breve con el próximo paso y despejar la mesa. Ese pequeño cierre me ayuda más que cualquier sistema complejo. Mañana el trabajo no estará resuelto, pero tendrá un lugar por donde empezar.",
+      "summary": "Las herramientas que uso menos son, a veces, las que mejor me acompañan.",
+      "date_published": "2026-05-12T12:00:00-03:00",
+      "tags": [
+        "herramientas",
+        "trabajo",
+        "minimalismo"
+      ]
+    },
+    {
+      "id": "el-cuaderno-de-mi-abuelo",
+      "url": "./blog/el-cuaderno-de-mi-abuelo/",
+      "title": "El cuaderno de mi abuelo",
+      "content_text": "En el cuaderno no había secretos. Había listas de compras, medidas para arreglar una estantería y teléfonos escritos con distintos colores. Algunas páginas tenían manchas de café. Lo que no parecía importante Lo abrí buscando una frase memorable y encontré una lista de tornillos. Me conmovió más de lo que esperaba. La vida también queda en sus instrucciones pequeñas. Esta es una escena inventada para mostrar cómo puede vivir un recuerdo en un blog personal. No pertenece a una biografía real. Una forma de conservar Pensé en escanear cada página, pero antes pasé un rato simplemente mirando. El peso del papel, la presión de la lapicera, una corrección al margen: no todo cabe de la misma forma en un archivo. Guardar no es lo mismo que poseer. A veces es cuidar algo para que otra persona pueda encontrarlo después.",
+      "summary": "Una historia ficticia sobre las cosas ordinarias que terminan guardando una vida.",
+      "date_published": "2026-04-03T12:00:00-03:00",
+      "tags": [
+        "memoria",
+        "cuadernos",
+        "familia"
+      ]
+    },
+    {
+      "id": "walden-una-pregunta-no-una-receta",
+      "url": "./blog/walden-una-pregunta-no-una-receta/",
+      "title": "Walden: una pregunta, no una receta",
+      "content_text": "No fui al bosque después de leer Walden. Fui al supermercado, respondí mensajes y tomé un colectivo. La distancia entre el libro y mi vida no me impidió encontrar una conversación. Lo suficiente La pregunta que me quedó fue sencilla: ¿cuánto necesito para vivir de una forma que reconozca como propia? No hay una respuesta única, y desconfío de las que llegan demasiado rápido. Me interesó más la búsqueda que sus posibles recetas. Un libro puede ampliar una pregunta sin darnos un modelo para imitar. Traerlo a la ciudad En lugar de imaginar una fuga completa, pensé en pequeños cambios posibles. Un gasto menos automático. Una tarde con menos compromisos. Una caminata que no sea solo un trayecto. Cerré el libro sin plan de mudanza, pero con una relación un poco distinta con lo que llamo necesario.",
+      "summary": "Leer una vida retirada sin creer que hace falta copiarla.",
+      "date_published": "2026-03-11T12:00:00-03:00",
+      "tags": [
+        "naturaleza",
+        "vida simple",
+        "clásicos"
+      ]
+    },
+    {
+      "id": "cerro-campanario-sin-el-reloj",
+      "url": "./blog/cerro-campanario-sin-el-reloj/",
+      "title": "Cerro Campanario sin el reloj",
+      "content_text": "El objetivo no era llegar rápido al mirador. Era atravesar el bosque sin sentir que esa parte del paseo era solo una espera. El bosque primero La sombra hizo que la mañana pareciera más fría. Paramos a mirar las texturas de una corteza y a escuchar un pájaro que no supimos identificar. No saber el nombre no nos impidió disfrutar el encuentro. Arriba El paisaje se abrió de golpe. Lagos, montañas y una distancia difícil de guardar en una fotografía. Hicimos una foto y después dejamos el teléfono en el bolsillo. Un mirador no es solo un lugar para mirar lejos. También puede ser un lugar para respirar un poco mejor. Los datos de esta caminata de ejemplo son ilustrativos. Verificá accesos, clima y dificultad antes de planificar una salida real.",
+      "summary": "Subir despacio para que el paisaje no llegue antes que nosotros.",
+      "date_published": "2026-02-18T12:00:00-03:00",
+      "tags": [
+        "Bariloche",
+        "bosque",
+        "aire libre"
+      ]
+    },
+    {
+      "id": "paterson-los-poemas-que-pasan-cerca",
+      "url": "./blog/paterson-los-poemas-que-pasan-cerca/",
+      "title": "Paterson: los poemas que pasan cerca",
+      "content_text": "Me gusta que esta película no convierta la creación en una escena de genio. Escribir aparece entre otras cosas: ir a trabajar, caminar, escuchar, volver a casa. La atención como materia Los poemas no nacen fuera de la vida cotidiana. Nacen de mirarla. Un objeto, una conversación que se oye a medias, una frase que vuelve durante el día. La película me hizo pensar en la cantidad de notas que no escribo por esperar que sean importantes antes de existir. El cuaderno Llevé una libreta pequeña en el bolsillo durante la semana siguiente. No salió ninguna obra extraordinaria. Salieron cinco frases que de otra manera habría olvidado. A veces una historia nos deja una herramienta muy humilde: el permiso para empezar.",
+      "summary": "Una libreta, una ciudad y la idea de que crear puede ser una parte discreta de la vida.",
+      "date_published": "2026-01-24T12:00:00-03:00",
+      "tags": [
+        "poesía",
+        "creatividad",
+        "rutinas"
+      ]
+    },
+    {
+      "id": "midnight-diner-historias-alrededor-de-una-mesa",
+      "url": "./blog/midnight-diner-historias-alrededor-de-una-mesa/",
+      "title": "Midnight Diner: historias alrededor de una mesa",
+      "content_text": "Vi el primer capítulo mientras cenaba. El gesto terminó siendo parte de la experiencia: una historia breve, una comida sencilla y el final del día. La mesa como lugar Me interesan las historias en las que un espacio permite que las personas se encuentren. Aquí la comida no funciona como un gran acontecimiento, sino como una forma de cuidar. Sin prisa por concluir Cada capítulo deja una impresión más que una explicación completa. Los personajes entran con una historia y salen con otra apenas modificada. La guardé entre las series para volver cuando quiero una compañía tranquila. No porque no haya tristeza, sino porque la tristeza también encuentra una silla.",
+      "summary": "Una puerta abierta de noche y una manera de escuchar sin resolver la vida de nadie.",
+      "date_published": "2025-12-08T12:00:00-03:00",
+      "tags": [
+        "comida",
+        "amistad",
+        "cine japonés"
+      ]
+    },
+    {
+      "id": "blue-escuchar-las-costuras",
+      "url": "./blog/blue-escuchar-las-costuras/",
+      "title": "Blue: escuchar las costuras",
+      "content_text": "Escuché Blue en una tarde sin planes. La voz parecía estar a la misma distancia que una conversación difícil, de esas en las que alguien elige las palabras con cuidado. Lo íntimo no es lo pequeño Me gusta cómo una experiencia muy personal puede abrir un lugar para otras personas. No hace falta haber vivido lo mismo para reconocer un tono, una duda o una forma de despedirse. Un álbum para regresar No lo escuché como un catálogo de canciones conocidas. Lo escuché como un recorrido con sus propios cambios de luz. Cuando terminó, no puse otro disco enseguida. Algunas músicas necesitan un pequeño margen de silencio.",
+      "summary": "Hay discos que parecen terminados y, aun así, dejan ver el trabajo de sentir.",
+      "date_published": "2025-11-20T12:00:00-03:00",
+      "tags": [
+        "álbumes",
+        "cantautores",
+        "escucha atenta"
+      ]
+    },
+    {
+      "id": "ficciones-y-el-placer-de-perderse",
+      "url": "./blog/ficciones-y-el-placer-de-perderse/",
+      "title": "Ficciones y el placer de perderse",
+      "content_text": "Lo releí en trayectos de colectivo. Un cuento a la vez, con la ciudad moviéndose del otro lado del vidrio. La mezcla resultó extrañamente apropiada. Leer sin resolver La primera vez intenté entender cada referencia. Esta vez dejé algunas puertas cerradas. Me interesó disfrutar el movimiento del relato antes de buscar todas sus llaves. Una biblioteca dentro de otra Hay libros que parecen apuntar hacia una respuesta. Este abre más estantes, más caminos, más dudas. Esa expansión puede ser una forma muy particular de alegría. Volví a guardar el libro en la biblioteca con la certeza de que la próxima lectura sería distinta. No porque las páginas cambien, sino porque uno llega desde otro lugar.",
+      "summary": "Entrar en un cuento como quien entra en una biblioteca que no termina.",
+      "date_published": "2025-10-12T12:00:00-03:00",
+      "tags": [
+        "relecturas",
+        "literatura argentina",
+        "cuentos"
+      ]
+    },
+    {
+      "id": "valparaiso-caminar-entre-colores",
+      "url": "./blog/valparaiso-caminar-entre-colores/",
+      "title": "Valparaíso: caminar entre colores",
+      "content_text": "En este viaje de ejemplo llevé zapatos cómodos y un itinerario optimista. Los zapatos fueron útiles; el itinerario, negociable. Subir y bajar Una escalera llevaba a otra, una esquina cambiaba la vista y el mar aparecía donde no lo estaba buscando. Las ciudades con desniveles enseñan que la distancia no es solo una línea en un mapa. Colores habitados Intenté no tratar las fachadas como un decorado. Detrás de una ventana había una casa, un día de trabajo, una historia que no conocía. El cuaderno guardó cinco colores y una conversación. El regreso guardó unas piernas cansadas y una forma nueva de mirar las pendientes.",
+      "summary": "Una ciudad que me hizo cambiar de dirección más veces de las que había previsto.",
+      "date_published": "2025-08-15T12:00:00-03:00",
+      "tags": [
+        "ciudades",
+        "Chile",
+        "viajes"
+      ]
+    },
+    {
+      "id": "entre-lengas-hacia-laguna-capri",
+      "url": "./blog/entre-lengas-hacia-laguna-capri/",
+      "title": "Entre lengas, hacia Laguna Capri",
+      "content_text": "El bosque tenía colores que no recordaba. O tal vez los recordaba y solo necesitaba verlos otra vez. Caminamos con la sensación de estar llegando a una conversación empezada. El camino que cambia Un sendero se repite, pero la caminata no. Cambian el clima, la compañía y lo que llevamos pensando. Esta vez miramos más hacia los costados que hacia el punto de llegada. Una pausa junto al agua La laguna estaba tranquila. Comimos algo sin sacar todo el equipo de la mochila. Me gusta esa economía de gestos: llegar, sentarse, mirar, volver. No hace falta que una salida sea excepcional para que merezca un lugar en el cuaderno. Las cifras de distancia y tiempo son de demostración. Consultá las condiciones del parque antes de hacer una caminata real.",
+      "summary": "Un sendero conocido en una estación distinta, y el permiso para detenerse más.",
+      "date_published": "2025-04-07T12:00:00-03:00",
+      "tags": [
+        "Patagonia",
+        "bosque",
+        "lagunas"
+      ]
+    },
+    {
+      "id": "la-vida-de-los-otros-aprender-a-escuchar",
+      "url": "./blog/la-vida-de-los-otros-aprender-a-escuchar/",
+      "title": "La vida de los otros: aprender a escuchar",
+      "content_text": "La volví a ver años después. Recordaba el argumento, pero no la cantidad de silencios que sostienen la película. Otra forma de oír Escuchar puede ser vigilar, acompañar o intentar comprender. La película se mueve entre esas posibilidades y hace incómodo lo que, desde lejos, parece fácil de clasificar. Después Me quedé pensando en las personas que cambian sin anunciarlo. En las decisiones pequeñas que no entran en una biografía resumida. Es una de esas películas que no me dan ganas de comentar inmediatamente. Prefiero dejarlas un rato, como una carta que todavía no terminé de leer.",
+      "summary": "Una historia que cambia de sentido cada vez que alguien realmente presta atención.",
+      "date_published": "2025-03-12T12:00:00-03:00",
+      "tags": [
+        "memoria",
+        "historia",
+        "escucha atenta"
+      ]
+    },
+    {
+      "id": "el-jardin-digital-no-necesita-una-aplicacion",
+      "url": "./blog/el-jardin-digital-no-necesita-una-aplicacion/",
+      "title": "El jardín digital no necesita una aplicación",
+      "content_text": "A veces llamamos sistema a lo que empezó como una manera de no perder una idea. Me gusta volver a ese comienzo y preguntar qué hace falta de verdad. Una nota por archivo Guardar una nota en texto significa poder abrirla con herramientas diferentes. También significa que el contenido no depende de que un servicio siga existiendo. Enlaces pequeños Conectar dos notas no requiere una base de datos compleja. Un enlace puede ser suficiente. Cuando la conexión se vuelve importante, el índice aparece como una consecuencia. Crecer después Prefiero que una estructura responda a lo que ya existe, no a un futuro imaginado de miles de notas. Hoy hay un cuaderno. Mañana veremos si necesita otra habitación.",
+      "summary": "Una carpeta de notas puede ser el principio de un lugar propio en la web.",
+      "date_published": "2025-02-10T12:00:00-03:00",
+      "tags": [
+        "web personal",
+        "Markdown",
+        "proyectos pequeños"
+      ]
+    },
+    {
+      "id": "siddhartha-y-las-preguntas-que-cambian",
+      "url": "./blog/siddhartha-y-las-preguntas-que-cambian/",
+      "title": "Siddhartha y las preguntas que cambian",
+      "content_text": "La primera lectura fue una carrera por saber qué iba a encontrar el protagonista. Esta vez me interesó cómo iba cambiando la pregunta. El camino de otro No leo una novela como una guía para vivir. Me sirve más como una compañía que muestra contradicciones sin exigir que las resuelva inmediatamente. Otra edad del libro Hay libros que asociamos con un momento muy preciso. Volver a ellos permite ver tanto el texto como la distancia entre aquella persona y la de ahora. No todo lo que recordaba estaba en las páginas. Parte lo había agregado yo. Esa también es una forma de lectura.",
+      "summary": "Releer una búsqueda conocida y descubrir que ya no pregunto desde el mismo lugar.",
+      "date_published": "2024-11-14T12:00:00-03:00",
+      "tags": [
+        "relecturas",
+        "búsqueda",
+        "clásicos"
+      ]
+    },
+    {
+      "id": "el-viaje-luminoso-de-artaud",
+      "url": "./blog/el-viaje-luminoso-de-artaud/",
+      "title": "El viaje luminoso de Artaud",
+      "content_text": "Lo puse un domingo a la tarde. La portada ya promete una forma rara, pero son las canciones las que vuelven a desarmar cualquier expectativa demasiado cómoda. Palabras y sonido Me gusta cómo las letras conservan zonas de misterio. No intento traducir cada imagen a una explicación. Algunas cosas funcionan mejor cuando siguen siendo una invitación. Un disco completo Escucharlo sin saltar pistas devuelve los contrastes: lo íntimo y lo amplio, una guitarra cercana y un paisaje que se abre. Después del disco salí a caminar. Había una canción que seguía cambiando en mi cabeza, como una luz que no terminaba de apagarse.",
+      "summary": "Escuchar un disco conocido sin dejar que la costumbre termine las canciones antes de tiempo.",
+      "date_published": "2024-10-06T12:00:00-03:00",
+      "tags": [
+        "música argentina",
+        "álbumes",
+        "escucha atenta"
+      ]
+    },
+    {
+      "id": "the-bear-el-tiempo-de-cuidar",
+      "url": "./blog/the-bear-el-tiempo-de-cuidar/",
+      "title": "The Bear: el tiempo de cuidar",
+      "content_text": "No la veo antes de dormir. Tiene un ritmo que se queda en el cuerpo. Me interesa, sin embargo, lo que sucede cuando ese ritmo hace lugar para un gesto de atención. Más allá de la eficiencia Un equipo puede hacer muchas cosas bien y aun así no saber tratarse. La serie muestra esa diferencia de formas que a veces resultan incómodamente cercanas. La mesa después del ruido La comida lleva tiempo, memoria y decisiones. Me quedo con los momentos en que alguien entiende que cuidar un plato también implica cuidar a las personas alrededor. La tengo en la estantería como una historia todavía en curso: algunas preguntas siguen abiertas y no necesito cerrarlas enseguida.",
+      "summary": "El trabajo compartido como un lugar de tensión, aprendizaje y cuidado.",
+      "date_published": "2024-07-22T12:00:00-03:00",
+      "tags": [
+        "trabajo",
+        "comida",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "un-paseo-por-la-reserva-ecologica",
+      "url": "./blog/un-paseo-por-la-reserva-ecologica/",
+      "title": "Un paseo por la Reserva Ecológica",
+      "content_text": "La primera parte del paseo fue puro tránsito urbano. Después apareció el verde, y el cambio de sonido fue más evidente que el de paisaje. Hacer lugar al entorno Bajé la velocidad y dejé de pensar en la salida como una sesión de ejercicio. Unos kilómetros pueden ser simplemente una manera de pasar la tarde. La vuelta Volví por una ruta distinta, con tiempo para una parada. Me gusta que la bicicleta permita cambiar un plan sin que eso se convierta en un problema. Distancias y escenas de esta nota son ilustrativas. Revisá horarios, accesos permitidos y normas locales antes de circular en una reserva real.",
+      "summary": "Salir de la ciudad sin dejarla del todo y volver con un volumen distinto.",
+      "date_published": "2024-05-04T12:00:00-03:00",
+      "tags": [
+        "bicicleta",
+        "Buenos Aires",
+        "aire libre"
+      ]
+    },
+    {
+      "id": "el-ano-en-que-volvi-a-escribir-a-mano",
+      "url": "./blog/el-ano-en-que-volvi-a-escribir-a-mano/",
+      "title": "El año en que volví a escribir a mano",
+      "content_text": "No compré una libreta especial. Usé una que tenía guardada, con las primeras páginas ocupadas por una lista vieja. Empezar en algo imperfecto resultó liberador. Pensar sin borrar La escritura a mano deja rastros de sus dudas. Una palabra tachada, una flecha, una frase que empezó en un lugar y terminó en otro. No es mejor que escribir en una pantalla. Es diferente, y esa diferencia me sirve cuando todavía no sé lo que quiero decir. Un hábito pequeño Una página algunos días. Una línea otros. La libreta no lleva una racha ni me felicita cuando la abro. Creo que por eso sigo volviendo. No me pide constancia perfecta: me ofrece un lugar.",
+      "summary": "Una libreta corriente y una forma menos editable de pensar.",
+      "date_published": "2024-02-03T12:00:00-03:00",
+      "tags": [
+        "cuadernos",
+        "hábitos",
+        "creatividad"
+      ]
+    },
+    {
+      "id": "el-principito-releer-para-descubrir",
+      "url": "./blog/el-principito-releer-para-descubrir/",
+      "title": "El principito: releer para descubrir",
+      "content_text": "Es fácil creer que conocemos un libro porque conocemos sus frases más citadas. Esta relectura fue un intento de encontrar las páginas que quedaron detrás de esas frases. Otro orden de importancia Me detuve más en las despedidas y menos en las moralejas. Me interesó cómo una historia sencilla puede sostener una tristeza que no necesita volverse solemne. Compartir la lectura Lo conversé con una persona que acababa de leerlo por primera vez. Sus preguntas fueron más útiles que mis recuerdos. Leer con alguien a veces significa dejar de explicar para volver a mirar. Guardé el libro sin una conclusión nueva y definitiva. Me alcanzó con haberlo encontrado otra vez.",
+      "summary": "Un libro familiar al que no hace falta llegar con una lectura ya decidida.",
+      "date_published": "2023-11-22T12:00:00-03:00",
+      "tags": [
+        "relecturas",
+        "amistad",
+        "clásicos"
+      ]
+    },
+    {
+      "id": "antes-del-amanecer-despues-de-muchos-anos",
+      "url": "./blog/antes-del-amanecer-despues-de-muchos-anos/",
+      "title": "Antes del amanecer, después de muchos años",
+      "content_text": "La primera vez que la vi recordaba sobre todo la ciudad. Ahora me quedé más con las pausas, con las dudas y con las maneras de cambiar de tema cuando algo importa demasiado. Caminar y hablar Una conversación se mueve de otra manera cuando las personas caminan. El paisaje ofrece salidas, interrupciones y pequeños acuerdos que no necesitan formularse. La edad de una escena No creo que la película haya cambiado. Cambió mi paciencia para ciertos silencios y mi manera de leer las promesas. Me gusta que un archivo de películas pueda funcionar también como un archivo de las personas que fuimos al verlas.",
+      "summary": "Volver a una conversación de cine y escuchar lo que antes no escuchaba.",
+      "date_published": "2023-09-09T12:00:00-03:00",
+      "tags": [
+        "conversaciones",
+        "ciudades",
+        "memoria"
+      ]
+    },
+    {
+      "id": "la-sombra-de-los-arboles-en-quebrada-del-condorito",
+      "url": "./blog/la-sombra-de-los-arboles-en-quebrada-del-condorito/",
+      "title": "La sombra de los árboles en Quebrada del Condorito",
+      "content_text": "Habíamos imaginado aves en vuelo y grandes vistas. También encontramos una piedra tibia para sentarnos y un silencio que cambiaba con el viento. El horizonte Mirar lejos ayuda a descansar los ojos de las distancias cortas. Después de una semana de pantallas, el horizonte parecía una herramienta que no sabía que necesitaba. Volver con poco Unas fotos, un dibujo torpe en el cuaderno y la ropa con olor a aire frío. Una caminata no siempre deja algo que podamos explicar de inmediato. Este relato y sus métricas son de demostración. Consultá senderos habilitados, condiciones meteorológicas y recomendaciones oficiales del parque antes de salir.",
+      "summary": "Un recorrido de ejemplo por la sierra, con la mirada puesta tanto arriba como cerca.",
+      "date_published": "2023-07-15T12:00:00-03:00",
+      "tags": [
+        "sierras",
+        "aire libre",
+        "caminar"
+      ]
+    },
+    {
+      "id": "kind-of-blue-sin-hacer-otra-cosa",
+      "url": "./blog/kind-of-blue-sin-hacer-otra-cosa/",
+      "title": "Kind of Blue, sin hacer otra cosa",
+      "content_text": "Lo había escuchado cientos de veces mientras hacía otras cosas. Esta vez dejé el teléfono boca abajo y me senté con el disco entero. Una atención distinta No sé explicar todo lo que sucede musicalmente. Puedo describir lo que cambia en la habitación cuando una frase termina y otra responde. Un pequeño acuerdo Durante un rato no iba a producir nada, aprender nada medible ni terminar una tarea. Iba a escuchar. La decisión parece menor. Sin embargo, me recordó que el disfrute no necesita una justificación adicional para ocupar tiempo.",
+      "summary": "La diferencia entre poner música y escucharla aparece cuando cerramos una pestaña.",
+      "date_published": "2023-05-21T12:00:00-03:00",
+      "tags": [
+        "jazz",
+        "álbumes",
+        "escucha atenta"
+      ]
+    },
+    {
+      "id": "severance-y-el-derecho-a-desconectar",
+      "url": "./blog/severance-y-el-derecho-a-desconectar/",
+      "title": "Severance y el derecho a desconectar",
+      "content_text": "La serie exagera una separación que, en la vida cotidiana, solemos pedir de formas más pequeñas. Cerrar el portátil, no responder de noche, tener una conversación que no empiece con una tarea pendiente. Una frontera compleja Separar no siempre es cuidar. A veces también impide entender lo que nos está pasando. Esa ambivalencia es parte de lo que me interesa en la historia. La oficina como paisaje Los espacios vacíos y los recorridos repetidos hacen visible una sensación que muchos trabajos esconden detrás de sus interfaces. La guardo como una serie en curso dentro de esta demo. Mi valoración es una nota provisional, no una conclusión sobre todo lo que la historia pueda llegar a ser.",
+      "summary": "Una ficción extraña para pensar una frontera cotidiana: dónde termina el trabajo.",
+      "date_published": "2023-03-17T12:00:00-03:00",
+      "tags": [
+        "trabajo",
+        "desconexión",
+        "identidad"
+      ]
+    },
+    {
+      "id": "las-ciudades-invisibles-un-atlas-de-preguntas",
+      "url": "./blog/las-ciudades-invisibles-un-atlas-de-preguntas/",
+      "title": "Las ciudades invisibles: un atlas de preguntas",
+      "content_text": "Empecé leyendo en orden y terminé abriendo páginas al azar. El libro toleró muy bien ese cambio de plan, como una ciudad que ofrece distintas entradas. Lo que una ciudad guarda Me interesaron las relaciones entre los lugares y la memoria. Una plaza puede ser una geometría en un mapa y, al mismo tiempo, el lugar donde alguien esperó una noticia. Una página para cada paseo Durante unos días leí una descripción antes de salir. No para buscar su equivalente en Buenos Aires, sino para ampliar lo que estaba dispuesto a notar. Un lugar no se termina cuando dejamos de verlo. Sigue creciendo en la memoria. El libro quedó lleno de señaladores. Ninguno pretende marcar la parte más importante; solo los lugares por donde quiero volver a entrar.",
+      "summary": "Leer una ciudad inventada para mirar mejor la que está del otro lado de la ventana.",
+      "date_published": "2022-10-13T12:00:00-03:00",
+      "tags": [
+        "ciudades",
+        "imaginación",
+        "lectura lenta"
+      ]
+    },
+    {
+      "id": "lisboa-guardar-una-ciudad-en-cinco-detalles",
+      "url": "./blog/lisboa-guardar-una-ciudad-en-cinco-detalles/",
+      "title": "Lisboa: guardar una ciudad en cinco detalles",
+      "content_text": "Una ciudad no cabe en cinco detalles. Pero cinco detalles pueden ser una forma honesta de recordar lo poco que alcanzamos a conocer. Un inventario incompleto Una escalera estrecha, el ruido de un tranvía, una mesa junto a una ventana, el olor de una panadería y una sombra que se movía muy lentamente. El mapa y la experiencia El mapa sirve para no perderse. A veces la experiencia empieza cuando dejamos de exigirle que explique el lugar. En esta escena imaginaria guardé menos fotos y más frases. No son una guía de Lisboa: son un modo de pensar cómo quisiera viajar.",
+      "summary": "Una historia de viaje de demostración sobre lo que no entra en una postal.",
+      "date_published": "2022-07-18T12:00:00-03:00",
+      "tags": [
+        "ciudades",
+        "viajes",
+        "memoria"
+      ]
+    },
+    {
+      "id": "una-lista-de-cosas-que-no-quiero-apurar",
+      "url": "./blog/una-lista-de-cosas-que-no-quiero-apurar/",
+      "title": "Una lista de cosas que no quiero apurar",
+      "content_text": "Una conversación con un amigo. La primera lectura de un poema. Una caminata en un lugar nuevo. La decisión de llevarme un libro de una librería. La lista cambia No es un manifiesto fijo. Algunas semanas necesito resolver rápido y otras necesito dar tiempo a una pregunta. Me interesa notar la diferencia. El tiempo que no se recupera A veces apuramos una experiencia para hacer lugar a otra y después llenamos ese lugar con algo que no habíamos elegido. Menos prisa no significa menos vida. Puede significar estar un poco más presente en ella. Guardo esta lista para revisarla, no para cumplirla como una obligación. Una buena regla tiene que poder escuchar lo que sucede.",
+      "summary": "No se trata de hacer todo lento. Se trata de elegir qué merece otro ritmo.",
+      "date_published": "2022-04-02T12:00:00-03:00",
+      "tags": [
+        "vida lenta",
+        "atención",
+        "tiempo"
+      ]
+    },
+    {
+      "id": "aprender-a-reparar-antes-de-reemplazar",
+      "url": "./blog/aprender-a-reparar-antes-de-reemplazar/",
+      "title": "Aprender a reparar antes de reemplazar",
+      "content_text": "La mochila tenía una costura abierta. El arreglo fue pequeño y quedó visible. Me gusta más así: no parece nueva, parece acompañada. Una habilidad modesta Buscar cómo reparar algo lleva tiempo. También cambia nuestra relación con los objetos. Dejamos de tratarlos como cajas cerradas que solo sirven mientras funcionan perfectamente. Lo que se conserva No todo se puede reparar y no todas las reparaciones convienen. La pregunta previa, sin embargo, casi siempre vale la pena. Esa tarde no resolví un gran problema. Hice una costura, aprendí algo y evité una compra que probablemente habría olvidado enseguida.",
+      "summary": "Una tarde con una costura, un tutorial y la satisfacción de conservar algo.",
+      "date_published": "2022-01-05T12:00:00-03:00",
+      "tags": [
+        "reparación",
+        "vida simple",
+        "objetos"
+      ]
+    }
+  ]
+}
