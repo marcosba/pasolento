@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Música</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Un disco para abrir las ventanas</title>
+      <link>./blog/un-disco-para-abrir-las-ventanas/</link>
+      <description>Volver a escuchar In Rainbows como si todavía no supiera qué canción viene después.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:un-disco-para-abrir-las-ventanas</guid>
+    </item>
+    <item>
+      <title>El pulso tranquilo de Chet Baker</title>
+      <link>./blog/el-pulso-tranquilo-de-chet-baker/</link>
+      <description>Un disco para escuchar las respiraciones entre las canciones.</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:el-pulso-tranquilo-de-chet-baker</guid>
+    </item>
+    <item>
+      <title>Blue: escuchar las costuras</title>
+      <link>./blog/blue-escuchar-las-costuras/</link>
+      <description>Hay discos que parecen terminados y, aun así, dejan ver el trabajo de sentir.</description>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:blue-escuchar-las-costuras</guid>
+    </item>
+    <item>
+      <title>El viaje luminoso de Artaud</title>
+      <link>./blog/el-viaje-luminoso-de-artaud/</link>
+      <description>Escuchar un disco conocido sin dejar que la costumbre termine las canciones antes de tiempo.</description>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:el-viaje-luminoso-de-artaud</guid>
+    </item>
+    <item>
+      <title>Kind of Blue, sin hacer otra cosa</title>
+      <link>./blog/kind-of-blue-sin-hacer-otra-cosa/</link>
+      <description>La diferencia entre poner música y escucharla aparece cuando cerramos una pestaña.</description>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <category>Música</category>
+      <guid isPermaLink="false">a-paso-lento:kind-of-blue-sin-hacer-otra-cosa</guid>
+    </item>
+  </channel>
+</rss>

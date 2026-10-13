@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Proyectos</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Un mapa de lugares para volver</title>
+      <link>./blog/un-mapa-de-lugares-para-volver/</link>
+      <description>Un proyecto pequeño: guardar lugares por lo que hicieron sentir, no por su puntuación.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Proyectos</category>
+      <guid isPermaLink="false">a-paso-lento:un-mapa-de-lugares-para-volver</guid>
+    </item>
+  </channel>
+</rss>

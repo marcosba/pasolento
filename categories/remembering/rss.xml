@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Recuerdos</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>El cuaderno de mi abuelo</title>
+      <link>./blog/el-cuaderno-de-mi-abuelo/</link>
+      <description>Una historia ficticia sobre las cosas ordinarias que terminan guardando una vida.</description>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Recuerdos</category>
+      <guid isPermaLink="false">a-paso-lento:el-cuaderno-de-mi-abuelo</guid>
+    </item>
+  </channel>
+</rss>

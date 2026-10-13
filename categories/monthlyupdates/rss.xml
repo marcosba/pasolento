@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Resumen mensual</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Septiembre, en cinco escenas</title>
+      <link>./blog/septiembre-en-cinco-escenas/</link>
+      <description>Un mes cabe mejor en unas pocas imágenes que en una lista de cosas terminadas.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Resumen mensual</category>
+      <guid isPermaLink="false">a-paso-lento:septiembre-en-cinco-escenas</guid>
+    </item>
+  </channel>
+</rss>

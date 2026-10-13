@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Ensayos</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>No todo lo que importa se puede medir</title>
+      <link>./blog/no-todo-lo-que-importa-se-puede-medir/</link>
+      <description>Los números son una buena herramienta, siempre que no los confundamos con la experiencia.</description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Ensayos</category>
+      <guid isPermaLink="false">a-paso-lento:no-todo-lo-que-importa-se-puede-medir</guid>
+    </item>
+    <item>
+      <title>Una lista de cosas que no quiero apurar</title>
+      <link>./blog/una-lista-de-cosas-que-no-quiero-apurar/</link>
+      <description>No se trata de hacer todo lento. Se trata de elegir qué merece otro ritmo.</description>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <category>Ensayos</category>
+      <guid isPermaLink="false">a-paso-lento:una-lista-de-cosas-que-no-quiero-apurar</guid>
+    </item>
+  </channel>
+</rss>

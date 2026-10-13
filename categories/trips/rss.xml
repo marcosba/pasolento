@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Viajes</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Montevideo, del otro lado del río</title>
+      <link>./blog/montevideo-del-otro-lado-del-rio/</link>
+      <description>Cruzar cerca para mirar distinto: una tarde sin itinerario en la Ciudad Vieja.</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:montevideo-del-otro-lado-del-rio</guid>
+    </item>
+    <item>
+      <title>Valparaíso: caminar entre colores</title>
+      <link>./blog/valparaiso-caminar-entre-colores/</link>
+      <description>Una ciudad que me hizo cambiar de dirección más veces de las que había previsto.</description>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:valparaiso-caminar-entre-colores</guid>
+    </item>
+    <item>
+      <title>Lisboa: guardar una ciudad en cinco detalles</title>
+      <link>./blog/lisboa-guardar-una-ciudad-en-cinco-detalles/</link>
+      <description>Una historia de viaje de demostración sobre lo que no entra en una postal.</description>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <category>Viajes</category>
+      <guid isPermaLink="false">a-paso-lento:lisboa-guardar-una-ciudad-en-cinco-detalles</guid>
+    </item>
+  </channel>
+</rss>

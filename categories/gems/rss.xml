@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Fotografía</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>San Telmo, cuando todavía está despertando</title>
+      <link>./blog/san-telmo-cuando-todavia-esta-despertando/</link>
+      <description>Salir con una cámara y volver con más preguntas sobre la luz que fotos.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Fotografía</category>
+      <guid isPermaLink="false">a-paso-lento:san-telmo-cuando-todavia-esta-despertando</guid>
+    </item>
+  </channel>
+</rss>

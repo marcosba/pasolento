@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Cine</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Perfect Days y la belleza de repetir</title>
+      <link>./blog/perfect-days-y-la-belleza-de-repetir/</link>
+      <description>Una película que no confunde una vida pequeña con una vida vacía.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:perfect-days-y-la-belleza-de-repetir</guid>
+    </item>
+    <item>
+      <title>Paterson: los poemas que pasan cerca</title>
+      <link>./blog/paterson-los-poemas-que-pasan-cerca/</link>
+      <description>Una libreta, una ciudad y la idea de que crear puede ser una parte discreta de la vida.</description>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:paterson-los-poemas-que-pasan-cerca</guid>
+    </item>
+    <item>
+      <title>La vida de los otros: aprender a escuchar</title>
+      <link>./blog/la-vida-de-los-otros-aprender-a-escuchar/</link>
+      <description>Una historia que cambia de sentido cada vez que alguien realmente presta atención.</description>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:la-vida-de-los-otros-aprender-a-escuchar</guid>
+    </item>
+    <item>
+      <title>Antes del amanecer, después de muchos años</title>
+      <link>./blog/antes-del-amanecer-despues-de-muchos-anos/</link>
+      <description>Volver a una conversación de cine y escuchar lo que antes no escuchaba.</description>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <category>Cine</category>
+      <guid isPermaLink="false">a-paso-lento:antes-del-amanecer-despues-de-muchos-anos</guid>
+    </item>
+  </channel>
+</rss>

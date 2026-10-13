@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Herramientas</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Un escritorio que deja espacio para pensar</title>
+      <link>./blog/un-escritorio-que-deja-espacio-para-pensar/</link>
+      <description>Las herramientas que uso menos son, a veces, las que mejor me acompañan.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Herramientas</category>
+      <guid isPermaLink="false">a-paso-lento:un-escritorio-que-deja-espacio-para-pensar</guid>
+    </item>
+  </channel>
+</rss>

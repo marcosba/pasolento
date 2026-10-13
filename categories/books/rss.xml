@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Lecturas</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>El libro del té: aprender a mirar lo pequeño</title>
+      <link>./blog/el-libro-del-te-aprender-a-mirar-lo-pequeno/</link>
+      <description>Una taza, una pausa y un libro que recuerda que la belleza no necesita hacer ruido.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:el-libro-del-te-aprender-a-mirar-lo-pequeno</guid>
+    </item>
+    <item>
+      <title>Caminar: un libro que se lee con los pies</title>
+      <link>./blog/caminar-un-libro-que-se-lee-con-los-pies/</link>
+      <description>Una invitación a salir que encontré, paradójicamente, sentado en una silla.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:caminar-un-libro-que-se-lee-con-los-pies</guid>
+    </item>
+    <item>
+      <title>Una habitación propia, cien años después</title>
+      <link>./blog/una-habitacion-propia-cien-anos-despues/</link>
+      <description>Volver a Virginia Woolf para pensar el espacio, el tiempo y las condiciones de crear.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:una-habitacion-propia-cien-anos-despues</guid>
+    </item>
+    <item>
+      <title>Walden: una pregunta, no una receta</title>
+      <link>./blog/walden-una-pregunta-no-una-receta/</link>
+      <description>Leer una vida retirada sin creer que hace falta copiarla.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:walden-una-pregunta-no-una-receta</guid>
+    </item>
+    <item>
+      <title>Ficciones y el placer de perderse</title>
+      <link>./blog/ficciones-y-el-placer-de-perderse/</link>
+      <description>Entrar en un cuento como quien entra en una biblioteca que no termina.</description>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:ficciones-y-el-placer-de-perderse</guid>
+    </item>
+    <item>
+      <title>Siddhartha y las preguntas que cambian</title>
+      <link>./blog/siddhartha-y-las-preguntas-que-cambian/</link>
+      <description>Releer una búsqueda conocida y descubrir que ya no pregunto desde el mismo lugar.</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:siddhartha-y-las-preguntas-que-cambian</guid>
+    </item>
+    <item>
+      <title>El principito: releer para descubrir</title>
+      <link>./blog/el-principito-releer-para-descubrir/</link>
+      <description>Un libro familiar al que no hace falta llegar con una lectura ya decidida.</description>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:el-principito-releer-para-descubrir</guid>
+    </item>
+    <item>
+      <title>Las ciudades invisibles: un atlas de preguntas</title>
+      <link>./blog/las-ciudades-invisibles-un-atlas-de-preguntas/</link>
+      <description>Leer una ciudad inventada para mirar mejor la que está del otro lado de la ventana.</description>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <category>Lecturas</category>
+      <guid isPermaLink="false">a-paso-lento:las-ciudades-invisibles-un-atlas-de-preguntas</guid>
+    </item>
+  </channel>
+</rss>

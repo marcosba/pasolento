@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Caminatas</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>El silencio tiene forma de montaña</title>
+      <link>./blog/el-silencio-tiene-forma-de-montana/</link>
+      <description>Hay caminos que no llevan a un lugar: te devuelven a una forma de estar. Una mañana en El Chaltén.</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:el-silencio-tiene-forma-de-montana</guid>
+    </item>
+    <item>
+      <title>La laguna que espera al final del camino</title>
+      <link>./blog/la-laguna-que-espera-al-final-del-camino/</link>
+      <description>Una salida imaginaria hacia Laguna de los Tres, con mucho viento y ninguna urgencia.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:la-laguna-que-espera-al-final-del-camino</guid>
+    </item>
+    <item>
+      <title>Cerro Campanario sin el reloj</title>
+      <link>./blog/cerro-campanario-sin-el-reloj/</link>
+      <description>Subir despacio para que el paisaje no llegue antes que nosotros.</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:cerro-campanario-sin-el-reloj</guid>
+    </item>
+    <item>
+      <title>Entre lengas, hacia Laguna Capri</title>
+      <link>./blog/entre-lengas-hacia-laguna-capri/</link>
+      <description>Un sendero conocido en una estación distinta, y el permiso para detenerse más.</description>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:entre-lengas-hacia-laguna-capri</guid>
+    </item>
+    <item>
+      <title>La sombra de los árboles en Quebrada del Condorito</title>
+      <link>./blog/la-sombra-de-los-arboles-en-quebrada-del-condorito/</link>
+      <description>Un recorrido de ejemplo por la sierra, con la mirada puesta tanto arriba como cerca.</description>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <category>Caminatas</category>
+      <guid isPermaLink="false">a-paso-lento:la-sombra-de-los-arboles-en-quebrada-del-condorito</guid>
+    </item>
+  </channel>
+</rss>

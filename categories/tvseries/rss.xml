@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Series</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Detectorists: encontrar sin buscar</title>
+      <link>./blog/detectorists-encontrar-sin-buscar/</link>
+      <description>La amistad, el paisaje y esas búsquedas que terminan hablando de otra cosa.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:detectorists-encontrar-sin-buscar</guid>
+    </item>
+    <item>
+      <title>Midnight Diner: historias alrededor de una mesa</title>
+      <link>./blog/midnight-diner-historias-alrededor-de-una-mesa/</link>
+      <description>Una puerta abierta de noche y una manera de escuchar sin resolver la vida de nadie.</description>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:midnight-diner-historias-alrededor-de-una-mesa</guid>
+    </item>
+    <item>
+      <title>The Bear: el tiempo de cuidar</title>
+      <link>./blog/the-bear-el-tiempo-de-cuidar/</link>
+      <description>El trabajo compartido como un lugar de tensión, aprendizaje y cuidado.</description>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:the-bear-el-tiempo-de-cuidar</guid>
+    </item>
+    <item>
+      <title>Severance y el derecho a desconectar</title>
+      <link>./blog/severance-y-el-derecho-a-desconectar/</link>
+      <description>Una ficción extraña para pensar una frontera cotidiana: dónde termina el trabajo.</description>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <category>Series</category>
+      <guid isPermaLink="false">a-paso-lento:severance-y-el-derecho-a-desconectar</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Tecnología</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Una web que pesa menos que una foto</title>
+      <link>./blog/una-web-que-pesa-menos-que-una-foto/</link>
+      <description>Archivos simples, enlaces que funcionan y una pequeña reivindicación de la web personal.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Tecnología</category>
+      <guid isPermaLink="false">a-paso-lento:una-web-que-pesa-menos-que-una-foto</guid>
+    </item>
+    <item>
+      <title>El jardín digital no necesita una aplicación</title>
+      <link>./blog/el-jardin-digital-no-necesita-una-aplicacion/</link>
+      <description>Una carpeta de notas puede ser el principio de un lugar propio en la web.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <category>Tecnología</category>
+      <guid isPermaLink="false">a-paso-lento:el-jardin-digital-no-necesita-una-aplicacion</guid>
+    </item>
+  </channel>
+</rss>

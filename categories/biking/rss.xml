@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>a paso lento · Bicicleta</title>
+    <link>./</link>
+    <description>Un blog personal para leer, caminar y mirar más despacio. Notas de libros, música, cine, tecnología y vida cotidiana.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Treinta kilómetros antes del desayuno</title>
+      <link>./blog/treinta-kilometros-antes-del-desayuno/</link>
+      <description>El aire de la mañana y una ruta conocida que nunca es exactamente la misma.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <category>Bicicleta</category>
+      <guid isPermaLink="false">a-paso-lento:treinta-kilometros-antes-del-desayuno</guid>
+    </item>
+    <item>
+      <title>Un paseo por la Reserva Ecológica</title>
+      <link>./blog/un-paseo-por-la-reserva-ecologica/</link>
+      <description>Salir de la ciudad sin dejarla del todo y volver con un volumen distinto.</description>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <category>Bicicleta</category>
+      <guid isPermaLink="false">a-paso-lento:un-paseo-por-la-reserva-ecologica</guid>
+    </item>
+  </channel>
+</rss>
